@@ -1,0 +1,514 @@
+###notificacao
+##.container > .lateral > .m-rec
+##.mrec-status
+##.mrec-status-l
+##.mrecbox
+##.pubWrapper
+@@||analytics-v2.mailtrack.io^
+@@||consent.cookiebot.com^$domain=nos.pt
+@@||play.google.com^
+audiobookbay.fi###rsidebar > ul > li:nth-of-type(2) > ul > li
+audiobookbay.fi###rsidebar > ul > li:nth-of-type(4) > h2
+audiobookbay.fi###rsidebar > ul > li:nth-of-type(5)
+audiobookbay.fi###rsidebar > ul > li:nth-of-type(6) > h2
+audiobookbay.fi##.yellow
+audiobookbay.fi##[src="/images/dire.gif"]
+audiobookbay.fi##li.social-button
+audiobookbay.fi##li:nth-of-type(4) > div:nth-of-type(2)
+audiobookbay.fi##li:nth-of-type(6) > div
+audiobookbay.fi##tr:nth-of-type(32)
+audiobookbay.fi##tr:nth-of-type(68)
+audiobookbay.net###rsidebar>ul>li:nth-of-type(2)>ul>li
+audiobookbay.net###rsidebar>ul>li:nth-of-type(4)
+audiobookbay.net###rsidebar>ul>li:nth-of-type(5)>h2
+audiobookbay.net###rsidebar>ul>li:nth-of-type(6)>h2
+audiobookbay.net##.leftPicCustomWrap
+audiobookbay.net##.yellow
+audiobookbay.net##[src="/images/dir.gif"]
+audiobookbay.net##li.social-button
+audiobookbay.net##tr:nth-of-type(26)>td:nth-of-type(1)
+audiobookbay.net##tr:nth-of-type(26)>td:nth-of-type(2)
+audiobookbay.net##tr:nth-of-type(27)>td:nth-of-type(1)
+audiobookbay.net##tr:nth-of-type(27)>td:nth-of-type(2)
+audiobookbay.net##tr:nth-of-type(41)
+audiobookbay.nl###rsidebar>ul>li:nth-of-type(2)>ul>li
+audiobookbay.nl###rsidebar>ul>li:nth-of-type(4)
+audiobookbay.nl###rsidebar>ul>li:nth-of-type(5)>h2
+audiobookbay.nl###rsidebar>ul>li:nth-of-type(6)>h2
+audiobookbay.nl##.leftPicCustomWrap
+audiobookbay.nl##.ski
+audiobookbay.nl##.yellow
+audiobookbay.nl##li.social-button
+audiobookbay.se###rsidebar > ul > li:nth-of-type(4)
+audiobookbay.se###rsidebar > ul > li:nth-of-type(5)
+audiobookbay.se##.ski
+audiobookbay.se##.yellow
+audiobookbay.se##[src="/images/d-t.gif"]
+audiobookbay.se##li.social-button
+audiobookbay.se##tr:nth-of-type(27)
+audiobookbay.se##tr:nth-of-type(33)
+audiobookbay.se##tr:nth-of-type(37)
+audiobookbay.se##tr:nth-of-type(52)
+audiobookbay.ws###rsidebar>ul>li:nth-of-type(2)>ul>li
+audiobookbay.ws###rsidebar>ul>li:nth-of-type(4)
+audiobookbay.ws###rsidebar>ul>li:nth-of-type(5)>h2
+audiobookbay.ws###rsidebar>ul>li:nth-of-type(6)>h2
+audiobookbay.ws##.ski
+audiobookbay.ws##.yellow
+audiobookbay.ws##li.social-button
+audiobookbayabb.com###rsidebar>ul>li:nth-of-type(2)>ul>li
+audiobookbayabb.com###rsidebar>ul>li:nth-of-type(4)
+audiobookbayabb.com###rsidebar>ul>li:nth-of-type(5)>h2
+audiobookbayabb.com###rsidebar>ul>li:nth-of-type(6)>h2
+audiobookbayabb.com##.yellow
+audiobookbayabb.com##li:nth-of-type(2)>ul>li>div
+audiobookbayabb.com##li:nth-of-type(5)>div
+audiobookbayabb.com##li:nth-of-type(6)>div
+audiobookbayabb.com##tr:nth-of-type(29)>td:nth-of-type(1)
+audiobookbayabb.com##tr:nth-of-type(29)>td:nth-of-type(2)
+bookaudiobooks.com##.ai_widget.widget
+cnnportugal.iol.pt###popover
+destinoseguro.azores.gov.pt###accessibility-links
+destinoseguro.azores.gov.pt###glt-translate-trigger
+en.news.xiaomi-miui.gr##div[class^="google_responsive"]
+en.news.xiaomi-miui.gr##div[id^="ai_widget"]
+en.news.xiaomi-miui.gr##div[id^="block"]
+en.wikipedia.org###siteNotice
+fivethirtyeight.com##.a9-sidebar-ad.widget
+mail.google.com##.modal__overlay
+oantagonista.uol.com.br###aux-bar > .aux-bar
+oantagonista.uol.com.br##.entry-content > .aux-bar
+observador.pt##.tinkerbell.alerts-popup
+portal.azores.gov.pt##.portal-portlet-user-dash--wrap
+portal.azores.gov.pt##.portal-portlet-youAreHere
+portal.azores.gov.pt##.template-normal--scroll-image
+sciencebasedmedicine.org###themegrill_social_icons-2
+sciencebasedmedicine.org##div.twitter-share
+visao.sapo.pt##.webPushIframe
+www.acorianooriental.pt##.d-xl-block.d-lg-block.d-md-none.d-xs-none.w-100
+www.acorianooriental.pt##.p-xs-0.d-xl-flex.d-lg-flex.d-md-flex.d-xs-flex.w-100
+www.androidauthority.com##.--Ib.--6f
+www.androidauthority.com##.--xc.--uc
+www.apkmirror.com##.adslot.adsbygoogle
+www.apkmirror.com##.ains-apkm_dev_page_bottom.ains-9.ains
+www.apkmirror.com##.ains-apkm_dev_page_top.ains-10.ains
+www.apkmirror.com##.ains-apkm_developers_injected_1.ains-6.ains
+www.apkmirror.com##.ains-apkm_outbrain_ad.ains-51.ains
+www.apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-26.ains
+www.apkmirror.com##.ains-apkm_release_page_middle.ains-25.ains
+www.apkmirror.com##.ains-apkm_release_page_top.ains-24.ains
+www.apkmirror.com##.gooWidget
+www.apkmirror.com##.google-ad-leaderboard.gooWidget
+www.apkmirror.com##.listWidget > div.appRow
+www.apkmirror.com##.membership-text.advertisement-text
+www.axios.com##.Modal_ctaContainer__kHYHl
+www.cnet.com##.fixed.isCenter.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
+www.dailywire.com##.wisepops-root
+www.desksoft.com##center
+www.desksoft.com##td:nth-of-type(6)
+www.foxnews.com##.sidebar-columns > div.vendor-unit:nth-of-type(3)
+www.ibtimes.com##.wf2-bg-dark.grwf2_backdrop
+www.idealista.pt###publi_16392
+www.publico.pt###ticker-paywall-geneint2
+www.publico.pt##.ad-slot--sticky.ad-slot
+www.publico.pt##.incontent-hidden.ad-slot--in-content.ad-slot
+www.publico.pt##.pubtxt.pubHorz
+www.publico.pt##.rmp-medium.rmp-chrome.rmp-no-hint.rmp-no-loading-spin.rmp-no-central-play.rmp-ad-outstream.rmp-container-fade-in.rmp-color-button.rmp-container.inContent
+www.publico.pt##.show-for-large.ad-slot--double.ad-slot
+www.reddit.com##.premium-banner
+www.sabado.pt##.contador
+www.theverge.com###newsletter-signup-short-form
+www.tuasaude.com##.ts-mrec-artigo.desktop-only.mrec-float-right.mrec-container
+www.tuasaude.com##.tuasaude-br-article-body-1.mrec-container
+www.tuasaude.com##.tuasaude-br-article-body-2.mrec-container
+www.wired.com##.hr-top.headroom.ad__slot--post_nav.justify-c.align-m.flex-box.bg-gray-1.brad-top.rad
+||audiobookbay.fi/images/bin.jpg$image
+||audiobookbay.fi/images/bz.jpg$image
+||audiobookbay.fi/images/d-t.gif$image
+||audiobookbay.fi/images/dire.gif$image
+||audiobookbay.fi/images/twi.jpg$image
+||audiobookbay.net/images/bin.jpg$image
+||audiobookbay.nl/images/audiobook.png$image
+||audiobookbay.nl/images/bin.jpg$image
+||audiobookbay.nl/images/bz.jpg$image
+||audiobookbay.nl/images/d-t.gif$image
+||audiobookbay.nl/images/direct.gif$image
+||audiobookbay.se/images/dir.gif$image
+||audiobookbay.se/images/fr.jpg$image
+||audiobookbay.ws/images/bin.jpg$image
+||audiobookbay.ws/images/d-t.gif$image
+||www.ibt-mail.com/site2/ibts_fast_start/$subdocument
+||www.inoreader.com/camo/szWAvQgKZyLkEUGO6ERNTjMVkXP7rGQ3txQKLAeN4jWw,q80,x600,b64/aHR0cHM6Ly9wb3J0YWwuYXpvcmVzLmdvdi5wdC9vL3BvcnRhbC50aGVtZS5kZWZhdWx0L2ltYWdlcy9lbWFpbF9zaGFyZS5zdmc$image
+
+! 2022-07-16 https://www.google.com
+www.google.com##.uU7dJb
+! 2022-07-16 https://www.reddit.com
+www.reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT._3hna43Sh0DTnoV7v2NNc2r
+! 2022-07-17 https://app.raindrop.io
+app.raindrop.io##.upgrade-R9fx
+! 2022-07-17 https://www.reddit.com
+www.reddit.com##._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
+! 2022-07-17 https://4gnews.pt
+4gnews.pt###gdpr-wrapper
+! 2022-07-17 https://www.tuasaude.com
+www.tuasaude.com##.tuasaude-br-article-body-3.mrec-container
+! 2022-07-17 https://www.imore.com
+www.imore.com##.col-2of3\@tablet.col-3of3.article-footer--taboola.article-footer
+! 2022-07-18 https://zap.aeiou.pt
+zap.aeiou.pt##.code-block-4.code-block
+zap.aeiou.pt##.code-block-9.code-block
+zap.aeiou.pt##.code-block-30.code-block
+zap.aeiou.pt##.code-block-25.code-block
+! 2022-07-18 https://www.worten.pt
+www.worten.pt##.w-margin-top.w-section-content__box.w-section__html.w-section__wrapper__content
+! 2022-07-18 https://canaltech.com.br
+canaltech.com.br###topo-canaltech
+! 2022-07-19 https://www.reddit.com
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+! 2022-07-19 https://www.dnoticias.pt
+www.dnoticias.pt##.pub--wrapper
+! 2022-07-19 https://www.androidcentral.com
+www.androidcentral.com##.exit-intent__background.exit-intent
+! 2022-07-19 https://mail.google.com
+mail.google.com##.ZY
+! 2022-07-20 https://www.wsj.com
+www.wsj.com###cx-what-to-read-next
+! 2022-07-20 https://www.publico.pt
+www.publico.pt##.datawall-warning.site-message--datawall.site-message--notice.site-message
+! 2022-07-20 https://xiaomiui.net
+xiaomiui.net##.h1ad.ads_ads
+! 2022-07-20 https://jewishjournal.com
+jewishjournal.com##.stretch_row.tdc-row
+! 2022-07-20 https://www.imore.com
+www.imore.com##.exit-intent__background.exit-intent
+www.imore.com##.van_taboola
+www.imore.com##.dfp-leaderboard-container
+www.imore.com###affiliate-disclaimer
+www.imore.com##.ad-unit.in-article
+www.imore.com###expanding-articles
+www.imore.com##.related-articles-wrap
+! 2022-07-20 https://techcrunch.com
+techcrunch.com##.piano-ribbon-container
+! 2022-07-20 https://www.theatlantic.com
+www.theatlantic.com##.qc-cmp2-container
+! 2022-07-20 https://www.nationalreview.com
+www.nationalreview.com##.paywall-rollup__content
+! 2022-07-20 https://www.androidauthority.com
+www.androidauthority.com##.--ad.--Zi
+www.androidauthority.com##.--6b.--4b.--5b
+www.androidauthority.com##.--Nc > p
+! 2022-07-20 https://www.tomsguide.com
+www.tomsguide.com##.exit-intent__background.exit-intent
+! 2022-07-21 https://www.imore.com
+www.imore.com##.jw-carousel
+www.imore.com##.future__jwplayer--carousel
+www.imore.com##.vid-present.van_vid_carousel
+! 2022-07-21 https://osxdaily.com
+osxdaily.com##.ml-form-align-center
+! 2022-07-25 https://abc7.com
+abc7.com##div.placeholderWrapper:nth-of-type(2)
+abc7.com##div.placeholderWrapper:nth-of-type(3)
+! 2022-07-29 https://macosicons.com
+macosicons.com##.gitHub-sponsor
+! 2022-08-01 https://www.tenforums.com
+www.tenforums.com##.chill
+! 2022-08-04 https://www.inoreader.com
+||www.inoreader.com/camo/szWAvQgKZyLkEUGO6ERNTjMVkXP7rGQ3txQKLAeN4jWw,b64/aHR0cHM6Ly9wb3J0YWwuYXpvcmVzLmdvdi5wdC9vL3BvcnRhbC50aGVtZS5kZWZhdWx0L2ltYWdlcy9lbWFpbF9zaGFyZS5zdmc$image
+||www.inoreader.com/camo/sYWzcoURztvRdpHDXXZj5NA633bZmfJ2x1mAgx0y3Lto,b64/aHR0cHM6Ly9wb3J0YWwuYXpvcmVzLmdvdi5wdC9vL3BvcnRhbC50aGVtZS5kZWZhdWx0L2ltYWdlcy9wcmludGVyX3NoYXJlLnN2Zw$image
+! 2022-08-04 https://tek.sapo.pt
+tek.sapo.pt##.inline-features-promotion.\].vertical-space.\[
+! 2022-08-10 https://www.reddit.com
+www.reddit.com###RESShortcutsEditContainer
+! 2022-08-10 https://www.freemactorrent.com
+||freemactorrent.com/bg-safe.png$image
+www.freemactorrent.com###bloc-title-safe
+! 2022-08-10 https://correiodosacores.pt
+correiodosacores.pt##.edn_socialPrintWrapper
+! 2022-08-11 https://www.foxnews.com
+www.foxnews.com##.speechkit-wrapper
+! 2022-08-12 https://www.cmjornal.pt
+www.cmjornal.pt##.inContent
+! 2022-08-12 https://www.reddit.com
+www.reddit.com###sr-more-link
+! 2022-08-12 https://www.theverge.com
+www.theverge.com##.remixd-wrapper
+! 2022-08-14 https://www.androidauthority.com
+www.androidauthority.com##._gd._Wb._fd
+! 2022-08-15 https://visao.sapo.pt
+visao.sapo.pt##.sticky-footer
+! 2022-08-16 https://www.androidcentral.com
+www.androidcentral.com##.read-more-container
+www.androidcentral.com###expanding-articles
+www.androidcentral.com##.related-articles-wrap
+! 2022-08-16 https://www.acorianooriental.pt
+www.acorianooriental.pt##.d-flex.p-lg-3.p-xs-0.w-100
+! 2022-08-24 https://www.androidauthority.com
+www.androidauthority.com##._cc._-b._bc
+! 2022-08-24 https://www.wonderwall.com
+www.wonderwall.com##.news-content-footer
+www.wonderwall.com##.right-aside-wrapper.sidebar-wrapper
+! 2022-08-29 https://www.cnbc.com
+www.cnbc.com##.BoxRail-styles-makeit-ad--1rgf0.BoxRail-styles-makeit-container-right--3SfNY
+! 2022-08-30 https://www.alternet.org
+www.alternet.org###kindest-frame
+! 2022-09-02 https://www.thelist.com
+www.thelist.com###primis-container
+! 2022-09-07 https://www.livenewsmag.com
+www.livenewsmag.com##.g1-teaser-prev.g1-teaser > .g1-teaser-arrow
+www.livenewsmag.com##.g1-teaser-arrow
+www.livenewsmag.com##.g1-teaser-next.g1-teaser
+www.livenewsmag.com##.g1-teaser-prev.g1-teaser
+www.livenewsmag.com##.mashsb-buttons
+www.livenewsmag.com##.g1-row-background-media
+www.livenewsmag.com##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter
+www.livenewsmag.com##.g1-hb-shadow-off.g1-hb-sticky-off.g1-hb-boxed.g1-hb-row-2.g1-hb-row-b.g1-hb-row-normal.g1-hb-row.g1-row-layout-page.g1-row
+! 2022-09-09 https://www.noticiasaominuto.com
+www.noticiasaominuto.com##div.hidden-xs > .pais.col-xs-12.col-sm-6.col-md-6.col-lg-4
+www.noticiasaominuto.com##.escolha-consumidor-badge-content
+www.noticiasaominuto.com##.news-social-bottom.row
+! 2022-09-10 https://unsplash.com
+unsplash.com##.lSBnl.bsjaC.aOKtF
+! 2022-09-12 https://www.iclarified.com
+www.iclarified.com##.ad_break_container
+www.iclarified.com##.header_ad1
+www.iclarified.com##.ad_break2_box_ad1
+www.iclarified.com##.ad_break2_container
+! 2022-09-12 https://www.androidauthority.com
+www.androidauthority.com##.-_-Bd.-_-Ad.ad-banner
+! 2022-09-13 https://www.theverge.com
+www.theverge.com##.md\:px-34.px-20 > .lg\:block.hidden.mx-auto
+www.theverge.com##.lg\:flex-1.lg\:flex-col.lg\:flex.text-white.z-0.hidden.max-h-\[6000px\].max-w-\[300px\].duet--layout--rail > div.flex-auto > .lg\:block.hidden.mx-auto
+! 2022-09-14 https://www.google.com
+||www.gstatic.com/inputtools/images/tia.png$image
+! 2022-09-14 https://consultaremedios.com.br
+consultaremedios.com.br##.ads-label-class-div-gpt-ad-1606158179790-0.advertising-label
+! 2022-09-16 https://www.inoreader.com
+||www.inoreader.com/camo/sxXR7OEtwPBqssYy0FlH9klivhTrq8uNOIWuicyuOSxU,q80,x600,b64/aHR0cHM6Ly9zdGF0aWMubnl0aW1lcy5jb20vZW1haWwtaW1hZ2VzL05ld19IZWFkZXJzL05ZVC1IZWFkZXJzLU4tVGhlTW9ybmluZyU0MDJ4LnBuZw$image
+! 2022-09-16 https://www.theverge.com
+www.theverge.com##.lg\:flex-1.lg\:flex-col.lg\:flex.text-white.z-0.hidden.max-h-\[6000px\].max-w-\[300px\].duet--layout--rail > div.flex-auto:nth-of-type(1)
+! 2022-09-19 https://www.hulldailymail.co.uk
+www.hulldailymail.co.uk##.topbox-cls-placeholder
+! 2022-09-21 https://www.uol.com.br
+www.uol.com.br##.up-floating > div
+! 2022-09-27 https://www.thefreelibrary.com
+||www.thefreelibrary.com/_/static/bg.gif$image
+! 2022-10-04 https://observador.pt
+observador.pt##.obs-ad-placeholder-manchete.fbg-container.obs-ad-placeholder
+observador.pt##.obs-cta-size-1-short.obs-cta > .content > .obs-button
+observador.pt##.obs-cta-size-1-short.obs-cta > .content
+! 2022-10-05 https://jornalacores9.pt
+jornalacores9.pt##.td_block_template_5.tdi_8.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap > div > .td_spot_img_all
+jornalacores9.pt##.td_block_template_5.tdi_1.td-a-rec-id-header.td-a-rec
+jornalacores9.pt##.td_block_template_5.tdi_31.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap > div > .td_spot_img_all
+jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_68.vc_column > .wpb_wrapper
+jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_91.vc_column
+! 2022-10-07 https://www.imore.com
+www.imore.com###sidebar-popular-bottom
+www.imore.com###sidebar-top
+www.imore.com###sidebar-popular-top
+! 2022-10-07 https://www.rtp.pt
+www.rtp.pt##.text-right.margin-top-20 h6
+www.rtp.pt##.hidden-print.bg-medium-gray
+! 2022-10-08 https://9to5mac.com
+9to5mac.com##.fluid-width-video-wrapper
+! 2022-10-09 https://boingboing.net
+boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > .i-amphtml-fill-content
+boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
+! 2022-10-09 https://zap.aeiou.pt
+zap.aeiou.pt##.code-block-15.code-block
+zap.aeiou.pt###pub-textlink
+! 2022-10-09 https://poligrafo.sapo.pt
+poligrafo.sapo.pt###features-promotion
+poligrafo.sapo.pt##.article-share.\].\[
+poligrafo.sapo.pt##.ifcn-badge.\].top-space.\[
+! 2022-10-09 https://www.facebook.com
+www.facebook.com###fbcmfToggle
+! 2022-10-12 https://www.euronews.com
+www.euronews.com##.o-article__aside__content-1-magazine.o-article__aside__content-1.o-article__aside__content
+! 2022-10-13 https://meaww.com
+meaww.com##.page-content-wrapper.header-margin.category-container.container > div:nth-of-type(3)
+! 2022-10-14 https://diariodegoias.com.br
+diariodegoias.com.br##.prop-container
+! 2022-10-14 https://techviral.net
+techviral.net##.td-header-rec-wrap
+! 2022-10-14 https://www.facebook.com
+www.facebook.com##footer
+! 2022-10-16 https://howtotwitch.com
+howtotwitch.com###ai_widget-2
+! 2022-10-17 https://www.xda-developers.com
+www.xda-developers.com##.et_social_mobile_off.et_social_sidebar_grow.et_social_rectangle.et_social_animated.et_social_slideright.et_social_visible_sidebar.et_social_sidebar_networks > .et_social_icons_container
+! 2022-10-17 https://www.androidauthority.com
+www.androidauthority.com##.-_-mc.-_-lc.ad-banner
+! 2022-10-17 https://www.androidcentral.com
+www.androidcentral.com##.dfp-leaderboard-container
+! 2022-10-19 https://eco.sapo.pt
+eco.sapo.pt##div.amp-wp-content:nth-of-type(2)
+! 2022-10-19 https://www.flash.pt
+www.flash.pt###mrec1
+! 2022-10-22 https://sciencebasedmedicine.org
+||sciencebasedmedicine.org/wp-content/uploads/2018/08/become-a-patron-button.png$image
+! 2022-10-22 https://solidtorrents.to
+solidtorrents.to##.view-box
+! 2022-10-23 https://www.tuasaude.com
+www.tuasaude.com##.tuasaude-en-article-body-2.mrec-container
+! 2022-10-26 https://9to5google.com
+9to5google.com##.fluid-width-video-wrapper
+9to5google.com##p:nth-of-type(12)
+9to5google.com##hr:nth-of-type(2)
+||www.facebook.com/ajax/bnzai?__a=1&__aaid=2516290475092677&__ccg=EXCELLENT&__comet_req=15&__hs=19291.HYP%3Acomet_pkg.2.1.0.2.1&__hsi=7158717821999713694&__req=h&__rev=1006466405&__s=5zu3fg%3Aey9uyp%3Az11w13&__spin_b=trunk&__spin_r=1006466405&__spin_t=1666768878&__user=100033246832787&dpr=1&fb_dtsg=NAcOmbGksfrNNEuFEW8-beIEjviPyJn6UwFg0WV69vKFs0tM31KgbNQ%3A5%3A1664969539&jazoest=25385&lsd=1hSyis3WWM2Lw0mdA7Bn4X&ph=C3$xhr,domain=www.facebook.com
+facebook.com##div[role="complementary"] > div[class] > div[class] > div[class] span > div > div:not([aria-label]):not([data-visualcompletion]):has(> div[class] > div[class] div[class] > a[href^="https://l."][href*="facebook.com/l.php?u="][target="_blank"])
+! 2022-10-26 https://www.e-konomista.pt
+www.e-konomista.pt##.wp-block-adc-post-header-sponsor
+! 2022-10-27 https://www.snopes.com
+www.snopes.com##.smg-zone-group-sidebar-single.smg-zone-group > .smg-zone-widget-composer.smg-zone-widget > .composer
+www.snopes.com###offer-0-OxWuv
+www.snopes.com##.tp-container-inner
+www.snopes.com##.smg-zone-widget-composer.smg-zone-widget
+! 2022-10-27 https://jornalacores9.pt
+||jornalacores9.pt/wp-content/uploads/2022/10/novobanco-Credito-Pessoal.gif$image
+! 2022-10-27 https://www.bloodyelbow.com
+www.bloodyelbow.com##.remixd-wrapper
+! 2022-10-28 https://theness.com
+theness.com##p:nth-of-type(2)
+! 2022-11-03 https://expresso.pt
+expresso.pt##.shareTools2020Wrapper
+! 2022-11-03 https://www.macstories.net
+www.macstories.net##.post-tags
+! 2022-11-04 https://www.politifact.com
+www.politifact.com##.m-sharing
+! 2022-11-04 https://www.cnet.com
+www.cnet.com##.c-head_disclosure
+! 2022-11-04 https://jornalacores9.pt
+||jornalacores9.pt/wp-content/uploads/2022/09/centroptico-set-22-1*.jpg$image
+! 2022-11-05 https://windowsreport.com
+windowsreport.com###sfbnri
+! 2022-11-06 https://edition.cnn.com
+@@||images.outbrainimg.com^$domain=edition.cnn.com
+edition.cnn.com##.CRAB_4.ob-classic-layout.ob-widget > .ob-first.ob-widget-section > .ob-widget-header
+edition.cnn.com##.CRAB_4.ob-classic-layout.ob-widget > .ob_what
+! 2022-11-09 https://www.noticiasaominuto.com
+||media-manager.noticiasaominuto.com/1280/636534ac178d4.jpeg?crop_params=e30=$image
+www.noticiasaominuto.com###casa-popout-section
+www.noticiasaominuto.com##.v-margin-15.pub-container-block.col-xs-12.col-sm-6.col-md-6.col-lg-4
+! 2022-11-10 https://www.theatlantic.com
+www.theatlantic.com##.Leaderboard_placeholder__vaqr1.Leaderboard_root__nPXmd.GptAd_root__2eqVh
+! 2022-11-12 https://www.publico.pt
+www.publico.pt###publico-ticker
+! 2022-11-13 https://www.publico.pt
+www.publico.pt##.trinityAudioPlaceholder
+www.publico.pt##.social-tools
+##.special-ctn
+ilecr.com##+js(abort-on-property-read, mdpDeBlocker)
+filecr.com##+js(abort-on-property-write, advanced_ads_check_adblocker)
+@@*$generichide,domain=filecr.com
+! 2022-11-17 https://filecr.com
+filecr.com##.top-header-ad
+! 2022-11-21 https://pplware.sapo.pt
+pplware.sapo.pt##.post.post-thumbnail
+pplware.sapo.pt##.group.pad > div > .group.related-posts
+www.techtudo.com.br##.ads
+! 2022-11-22 https://www.gsmarena.com
+www.gsmarena.com##div.module:nth-of-type(4) > div
+www.gsmarena.com##div.module:nth-of-type(4) > .section-heading
+! 2022-11-22 https://projects.fivethirtyeight.com
+projects.fivethirtyeight.com###ad
+! 2022-11-23 https://www.mylondon.news
+www.mylondon.news##.topbox-cls-placeholder
+www.mylondon.news##.secondary.related-column
+! 2022-11-23 https://tek.sapo.pt
+tek.sapo.pt##.\].hide-medium.hide-small.hide-tiny.\[ > .\].\[ > .special-ctn > .pub-2020
+tek.sapo.pt##.special-ctn
+! 2022-11-23 https://poligrafo.sapo.pt
+poligrafo.sapo.pt##.content > .article-inline-ads-2020.\].align-center.vertical-space.\[ > .special-ctn
+poligrafo.sapo.pt##.special-ctn
+! 2022-11-24 https://chordify.net
+chordify.net###content > div.d1x5r91u > div > .a1p2y5ib > .f1gbqqnm
+chordify.net###content > div.d1x5r91u > div
+! 2022-11-24 https://www.givemesport.com
+www.givemesport.com###sn_gg_ad_wrapper
+! 2022-11-29 https://www.idealista.pt
+www.idealista.pt###block-idealista-news-smart-format-roba-block
+! 2022-11-30 https://diariodalagoa.pt
+diariodalagoa.pt##.lbl-pub
+! 2022-12-01 https://www.gazettelive.co.uk
+www.gazettelive.co.uk##.topbox-cls-placeholder
+! 2022-12-04 https://www.idownloadblog.com
+www.idownloadblog.com###AdThrive_Sidebar_1_desktop
+www.idownloadblog.com###AdThrive_Content_2_desktop
+! 2022-12-04 https://audiobookbay.li
+||audiobookbay.li/images/dire.gif$image
+audiobookbay.li###rsidebar > ul > li:nth-of-type(4)
+! 2022-12-05 https://www.youtube.com
+www.youtube.com##.ryd-tooltip-new-design.ryd-tooltip
+! 2022-12-07 https://www.zdnet.com
+www.zdnet.com###onetrust-consent-sdk
+! 2022-12-15 https://news.google.com
+news.google.com##.ghN9W
+! 2022-12-17 https://fortune.com
+fortune.com##div.hIZRmW.sc-clIzBv
+! 2022-12-20 https://24.sapo.pt
+###features-promotion
+! 2022-12-20 https://thehill.com
+thehill.com##.ns-block-embed-anvato
+! 2023-01-04 https://www.thedailybeast.com
+www.thedailybeast.com##.GoogleReadaloud
+! 2023-01-06 https://holofote.sapo.pt
+holofote.sapo.pt##.sticky-footer
+@@||webnovelpub.com^$ghide
+webnovelpub.com##div.container
+webnovelpub.com##[data-pw-desk="leaderboard_btf"]:upward(div)
+! 2023-01-06 https://www.webnovelpub.com
+www.webnovelpub.com##.left-panel > .xneJbxmQ.ad-sticky.bSGR_lxI
+www.webnovelpub.com##.right-panel > .xneJbxmQ.ad-sticky.bSGR_lxI
+! 2023-01-07 https://www3.pobre.wtf
+www3.pobre.wtf##.dns-message
+! 2023-01-18 https://www.signulous.com
+www.signulous.com##.dashboard__news
+! 2023-01-23 https://www.myfitnesspal.com
+www.myfitnesspal.com##.css-1hxzbui.MuiBox-root
+www.myfitnesspal.com##.css-nv096v.MuiBox-root
+! 2023-01-24 https://audiobookbay.li
+audiobookbay.li##[src="/images/d-t.gif"]
+audiobookbay.li##[src="https://audiobookbay.li/images/bz.jpg"]
+audiobookbay.li##[src="/images/bin.jpg"]
+audiobookbay.li##[src="/images/fr.jpg"]
+audiobookbay.li##[src="/images/dire.gif"]
+audiobookbay.li##.yellow
+audiobookbay.li###rsidebar > ul > li:nth-of-type(5) > h2
+audiobookbay.li##li.social-button
+! 2023-01-25 https://www.xda-developers.com
+www.xda-developers.com##.article-footer-newsletter
+! 2022-12-05 https://audiobookbay.li
+! 2023-01-11 https://observador.pt
+! 2023-01-13 https://www.signulous.com
+! 2023-01-18 https://visao.sapo.pt
+visao.sapo.pt##.show.fade.modal-backdrop
+! 2023-01-23 https://www.reuters.com
+www.reuters.com##.leaderboard__slot__1_SQv > div > .ad-slot__container__FEnoz
+! 2023-01-23 https://hrportugal.sapo.pt
+hrportugal.sapo.pt##.sticky-active.wrapper-sticky
+hrportugal.sapo.pt##.widget_custom_html.widget.primary-sidebar-widget.w-nt.h-ni.widget_text
+hrportugal.sapo.pt##.widget_jvc.widget.primary-sidebar-widget.w-nt.w-bg-f3f6f6.w-bg.h-ni
+hrportugal.sapo.pt###jvc-7
+hrportugal.sapo.pt###jvc-8
+! 2023-01-23 https://www.noticiasaominuto.com
+www.noticiasaominuto.com##div.pub-container-block.hidden-xs.hidden-sm.col-md-6.col-lg-4
+! 2023-01-23 https://www.bitdefender.com
+||download.bitdefender.com/resources/themes/red/images_colorbox/overlay.png$image
+||audiobookbay.li/wp-content/themes/simplebalance/img/background.png$image
+audiobookbay.li##li > ul > li > div
+audiobookbay.li###rsidebar > ul > li > div
+audiobookbay.li###rsidebar > ul > li > h2
+audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(1)
+||audiobookbay.li/images/d-t.gif$image
+audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(2)
+||audiobookbay.li/images/bz.jpg$image
+audiobookbay.li###rsidebar > ul > li:nth-of-type(2) > ul > li
+! 2023-01-25 https://feedreader.com
+feedreader.com###feedback
+
+! 2023-01-26 https://www.androidguys.com
+www.androidguys.com##.td_block_template_4.tdi_12_76c.td-a-rec-id-header.td-a-rec
+
+! 2023-02-17 https://forum.mobilism.org
+||forum.mobilism.org/styles/BBOOTS/imageset/express1.png$image
