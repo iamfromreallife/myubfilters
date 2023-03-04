@@ -535,6 +535,11 @@ reddit.com##.XPromoInFeed
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 
+! I suspect they are injecting artificial delays when above stuff is blocked (loading screen),
+! if you see some delays, try if this helps:
+! www.reddit.com##+js(nostif, /^/)
+! www.reddit.com##+js(nosiif, /^/)
+
 ! 2022-11-11 20:20:47 CET:
 www.reddit.com##xpromo-app-selector
 www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
@@ -542,8 +547,3 @@ www.reddit.com##+js(aeld, touchmove)
 
 ! 2022-11-12 10:11:02 CET
 www.reddit.com##.XPromoPopupRplNew
-
-www.reddit.com##shreddit-experience-tree
-www.reddit.com##+js(rc, scroll-is-blocked|scroll-disabled, , stay)
-www.reddit.com##.XPromoPopup__overlay
-www.reddit.com##.XPromoPopup
