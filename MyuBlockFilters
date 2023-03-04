@@ -510,5 +510,35 @@ feedreader.com###feedback
 ! 2023-01-26 https://www.androidguys.com
 www.androidguys.com##.td_block_template_4.tdi_12_76c.td-a-rec-id-header.td-a-rec
 
-! 2023-02-17 https://forum.mobilism.org
-||forum.mobilism.org/styles/BBOOTS/imageset/express1.png$image
+! 2023-02-28 https://forum.mobilism.org
+forum.mobilism.org##tr.row1:nth-of-type(7) > td:nth-of-type(2) > table > tbody > tr > td > .postbody
+
+! 2023-03-04 https://tabs.ultimate-guitar.com
+tabs.ultimate-guitar.com##.FW01q
+tabs.ultimate-guitar.com##.iWe5J
+
+
+##body,html:style(overflow:auto !important)
+
+! Reddit app ad
+www.reddit.com##.XPromoPopupRpl
+www.reddit.com##xpromo-new-app-selector
+www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##body:style(pointer-events:auto!important;)
+
+! uBO Annoyances has also this:
+! https://github.com/uBlockOrigin/uAssets/issues/6826
+reddit.com##.XPromoPopup
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##.XPromoInFeed
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
+
+! 2022-11-11 20:20:47 CET:
+www.reddit.com##xpromo-app-selector
+www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
+www.reddit.com##+js(aeld, touchmove)
+
+! 2022-11-12 10:11:02 CET
+www.reddit.com##.XPromoPopupRplNew
