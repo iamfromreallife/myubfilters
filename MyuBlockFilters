@@ -542,3 +542,8 @@ www.reddit.com##+js(aeld, touchmove)
 
 ! 2022-11-12 10:11:02 CET
 www.reddit.com##.XPromoPopupRplNew
+
+www.reddit.com##shreddit-experience-tree
+www.reddit.com##+js(rc, scroll-is-blocked|scroll-disabled, , stay)
+www.reddit.com##.XPromoPopup__overlay
+www.reddit.com##.XPromoPopup
