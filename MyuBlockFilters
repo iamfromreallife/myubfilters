@@ -506,27 +506,38 @@ audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(2)
 audiobookbay.li###rsidebar > ul > li:nth-of-type(2) > ul > li
 ! 2023-01-25 https://feedreader.com
 feedreader.com###feedback
-
 ! 2023-01-26 https://www.androidguys.com
 www.androidguys.com##.td_block_template_4.tdi_12_76c.td-a-rec-id-header.td-a-rec
-
+! 2023-02-17 https://forum.mobilism.org
+||forum.mobilism.org/styles/BBOOTS/imageset/express1.png$image
+! 2023-02-23 https://www.idealista.pt
+www.idealista.pt##.sas-banner
+! 2023-03-10 https://poligrafo.sapo.pt
+poligrafo.sapo.pt##.fugly-ads.\].align-center.vertical-space.ink-grid.\[
+! 2023-03-28 https://www.flash.pt
+www.flash.pt###mrec2
+www.flash.pt##.pubInContentMargin
+! 2023-03-28 https://www.msn.com
+www.msn.com##.riverSections-DS-EntryPoint1-1 > div:nth-of-type(1) > div:nth-of-type(3)
+! 2023-03-29 https://www.vanityfair.com
+www.vanityfair.com##.paywall-modal-container
+www.vanityfair.com##.modal-overlay
+! 2023-03-29 https://24.sapo.pt
+24.sapo.pt##.top-pub
+! 2023-03-30 https://cnnportugal.iol.pt
+cnnportugal.iol.pt##.bell
 ! 2023-02-28 https://forum.mobilism.org
 forum.mobilism.org##tr.row1:nth-of-type(7) > td:nth-of-type(2) > table > tbody > tr > td > .postbody
-
 ! 2023-03-04 https://tabs.ultimate-guitar.com
 tabs.ultimate-guitar.com##.FW01q
 tabs.ultimate-guitar.com##.iWe5J
-
-
 ##body,html:style(overflow:auto !important)
-
 ! Reddit app ad
 www.reddit.com##.XPromoPopupRpl
 www.reddit.com##xpromo-new-app-selector
 www.reddit.com##.bottom-bar, .XPromoBottomBar
 www.reddit.com##.useApp,.TopNav__promoButton
 www.reddit.com##body:style(pointer-events:auto!important;)
-
 ! uBO Annoyances has also this:
 ! https://github.com/uBlockOrigin/uAssets/issues/6826
 reddit.com##.XPromoPopup
@@ -534,44 +545,62 @@ reddit.com##body.scroll-disabled:style(overflow: visible!important; position: st
 reddit.com##.XPromoInFeed
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
-
 ! I suspect they are injecting artificial delays when above stuff is blocked (loading screen),
 ! if you see some delays, try if this helps:
 ! www.reddit.com##+js(nostif, /^/)
 ! www.reddit.com##+js(nosiif, /^/)
-
 ! 2022-11-11 20:20:47 CET:
 www.reddit.com##xpromo-app-selector
 www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
 www.reddit.com##+js(aeld, touchmove)
-
 ! 2022-11-12 10:11:02 CET
 www.reddit.com##.XPromoPopupRplNew
 www.reddit.com##.NavFrame > .m-consolidate.XPromoBottomBar
-
 ! 2023-03-07 https://supercasa.pt
 supercasa.pt###SearchPage-HorizontalBanner-Imobinvest_B
-
 ! 2023-03-11 https://www.independent.co.uk
 www.independent.co.uk##.ePjoNe.sc-uo1whf-0.dDZyIt.sc-1pfx6hk-0
-
 ! 2023-03-11 https://poligrafo.sapo.pt
-poligrafo.sapo.pt##.fugly-ads.\].align-center.vertical-space.ink-grid.\[
-
-! 2023-03-13 https://app.seg-social.pt
-app.seg-social.pt##.info.cookies
-
 apkmirror.com##+js(aeld, load, (event))
+! 2023-03-17 https://www.lovebscott.com
+www.lovebscott.com##.sf-sidebar-wrapper
+! 2023-03-21 https://www.yahoo.com
+www.yahoo.com###sda-MON
+! 2023-03-22 https://jalopnik.com
+jalopnik.com##.js_more-below-post.hNjGzN.sc-1or3yyu-5
+! 2023-03-24 https://blog.avast.com
+blog.avast.com###Combined-Shape
 
-! 2023-03-17 https://www.acorianooriental.pt
-www.acorianooriental.pt##.font-10
+! 2023-04-12 https://www.publico.pt
+www.publico.pt##.ad-slot--double.ad-slot
+www.publico.pt###credential_picker_container
 
-! 2023-03-22 https://xhamster.com
-xhamster.com##.group_d_six.yxd-j--top.yxd-j
+! 2023-04-12 https://pplware.sapo.pt
+pplware.sapo.pt###\#sidepub
 
-! 2023-03-23 https://www.pornhub.com
-www.pornhub.com##.adsbytrafficjunky
+! 2023-04-12 https://abertoatedemadrugada.com
+abertoatedemadrugada.com###rotatorAADM
+abertoatedemadrugada.com###HTML15 > .widget-content > div > div
+abertoatedemadrugada.com###HTML15 > .title
+abertoatedemadrugada.com###HTML15 > .widget-content > div
+abertoatedemadrugada.com###HTML1 > .title
+abertoatedemadrugada.com###HTML1 > .widget-content
+abertoatedemadrugada.com##.widget-content > .separator
+abertoatedemadrugada.com###HTML12 > .title
 
-! 2023-03-23 https://observador.pt
-observador.pt##.obs-ad-placeholder-manchete-mobile.fbg-container.obs-ad-placeholder
-||accounts.google.com/gsi/iframe/select$subdocument
+! 2023-04-12 https://www.noticiasdecoimbra.pt
+www.noticiasdecoimbra.pt###mvp-leader-wrap
+
+! 2023-04-18 https://rapidsave.com
+rapidsave.com###bs-example-navbar-collapse-1
+rapidsave.com##.no-mrg.navbar-default.navbar > .container
+rapidsave.com##.about.card.col-md-offset-2.col-md-8
+rapidsave.com##footer > p
+rapidsave.com##.no-mrg.navbar-default.navbar
+rapidsave.com##footer
+
+! 2023-04-19 https://pt.wikipedia.org
+pt.wikipedia.org###concurso
+
+! 2023-04-20 https://www.digitaltrends.com
+www.digitaltrends.com##.dt-primis--related.dt-primis
