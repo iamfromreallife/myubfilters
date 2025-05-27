@@ -1,67 +1,89 @@
+@@*$generichide,domain=filecr.com
+@@||analytics-v2.mailtrack.io^
+@@||assets-jpcust.jwpsrv.com^$domain=sicnoticias.pt
+@@||cdn.ziffstatic.com/jst/zdconsent.js$domain=speedtest.net
+@@||consent.cookiebot.com^$domain=nos.pt
+@@||diffuser-cdn.app-us1.com^$script,domain=speedtest.net
+@@||google.com/gen_204$domain=google.com
+@@||images.outbrainimg.com^$domain=edition.cnn.com
+@@||play.google.com^
+@@||tsf.pt^$inline-script,domain=tsf.pt
+@@||webnovelpub.com^$ghide
+##.ad-slot--double.ad-slot
+##.container > .lateral > .m-rec
+##.google-ad-center
+##.mrec-status
+##.mrec-status-l
+##.mrecbox
+##.pubWrapper
+##.special-ctn
 ###features-promotion
 ###notificacao
-##.ad-slot--double.ad-slot
-##.container > .lateral > .m-rec
-##.mrec-status
-##.mrec-status-l
-##.mrecbox
-##.pubWrapper
-##.special-ctn
-##body,html:style(overflow:auto !important)
-folha.uol.com.br##.u-visible-md.col-fixed--md-300.col-fixed
-pobre.wtf##.dns-message
+##div.in-content-ad-container
+##div.left-rail-ads
+##div.right-rail-ads
+||accounts.google.com/gsi/*$xhr,script,3p
+||accounts.google.com/gsi/iframe/select$subdocument
+||audiobookbay.fi/images/bin.jpg$image
+||audiobookbay.fi/images/bz.jpg$image
+||audiobookbay.fi/images/d-t.gif$image
+||audiobookbay.fi/images/ddt.gif$image
+||audiobookbay.fi/images/dire.gif$image
+||audiobookbay.fi/images/twi.jpg$image
+||audiobookbay.is/images/bin.jpg$image
+||audiobookbay.is/images/bz.jpg$image
+||audiobookbay.is/images/ddt.gif$image
+||audiobookbay.is/images/fr.jpg$image
+||audiobookbay.is/wp-content/themes/simplebalance/img/background.png$image
+||audiobookbay.li/images/bz.jpg$image
+||audiobookbay.li/images/d-t.gif$image
+||audiobookbay.li/images/dire.gif$image
+||audiobookbay.li/wp-content/themes/simplebalance/img/background.png$image
+||audiobookbay.net/images/bin.jpg$image
+||audiobookbay.nl/images/audiobook.png$image
+||audiobookbay.nl/images/bin.jpg$image
+||audiobookbay.nl/images/bz.jpg$image
+||audiobookbay.nl/images/d-t.gif$image
+||audiobookbay.nl/images/direct.gif$image
+||audiobookbay.se/images/dir.gif$image
+||audiobookbay.se/images/fr.jpg$image
+||audiobookbay.ws/images/bin.jpg$image
+||audiobookbay.ws/images/d-t.gif$image
+||download.bitdefender.com/resources/themes/red/images_colorbox/overlay.png$image
+||forum.mobilism.org/styles/BBOOTS/imageset/express1.png$image
+||freemactorrent.com/bg-safe.png$image
+||gstatic.com/inputtools/images/tia.png$image
+||i.ibb.co/c3sJbnb/logo-teamos.webp$image
+||ibt-mail.com/site2/ibts_fast_start/$subdocument
+||jornalacores9.pt/wp-content/uploads/2022/09/centroptico-set-22-1*.jpg$image
+||jornalacores9.pt/wp-content/uploads/2022/10/novobanco-Credito-Pessoal.gif$image
+||media-manager.noticiasaominuto.com/1280/636534ac178d4.jpeg?crop_params=e30=$image
+||media-manager.noticiasaominuto.com/640/naom_63bdb18506af6.jpeg$image
+||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
+||rutrk.org/240x120/marathon_02.jpg$image
+||sciencebasedmedicine.org/wp-content/uploads/2018/08/become-a-patron-button.png$image
+||smartlock.google.com^
+||static.cgd.pt/staticCMS/cdo/global/img/Fraude_PaginaZero_4.png$image
+||theaudiobookbay.me/images/d-t.gif$image
+||thefreelibrary.com/_/static/bg.gif$image
+||diarioleiria.pt/wp-content/uploads/sites/7/2024/09/Fig-300x600-1.webp$image
+24.sapo.pt##.\].horizontal-gutters.column-group.\[
+24.sapo.pt##.\].xlarge-60.large-80.medium-100.small-100.tiny-100.\[ > .share.\].\[
 24.sapo.pt##.top-pub
+4gnews.pt##.header-super-banner
+4gnews.pt##.mb20.banner-deals
 4gnews.pt###gdpr-wrapper
 9to5google.com##.fluid-width-video-wrapper
 9to5google.com##hr:nth-of-type(2)
 9to5google.com##p:nth-of-type(12)
 9to5mac.com##.fluid-width-video-wrapper
-@@*$generichide,domain=filecr.com
-@@||analytics-v2.mailtrack.io^
-@@||assets-jpcust.jwpsrv.com^$domain=sicnoticias.pt
-@@||consent.cookiebot.com^$domain=nos.pt
-@@||google.com/gen_204$domain=google.com
-@@||images.outbrainimg.com^$domain=edition.cnn.com
-@@||play.google.com^
-@@||tsf.pt^$inline-script,domain=tsf.pt
-@@||webnovelpub.com^$ghide
 abc7.com##div.placeholderWrapper:nth-of-type(2)
 abc7.com##div.placeholderWrapper:nth-of-type(3)
-abertoatedemadrugada.com###HTML1 > .title
-abertoatedemadrugada.com###HTML1 > .widget-content###features-promotion
-###notificacao
-##.ad-slot--double.ad-slot
-##.container > .lateral > .m-rec
-##.mrec-status
-##.mrec-status-l
-##.mrecbox
-##.pubWrapper
-##.special-ctn
-##body,html:style(overflow:auto !important)
-folha.uol.com.br##.u-visible-md.col-fixed--md-300.col-fixed
-pobre.wtf##.dns-message
-24.sapo.pt##.top-pub
-4gnews.pt###gdpr-wrapper
-9to5google.com##.fluid-width-video-wrapper
-9to5google.com##hr:nth-of-type(2)
-9to5google.com##p:nth-of-type(12)
-9to5mac.com##.fluid-width-video-wrapper
-@@*$generichide,domain=filecr.com
-@@||analytics-v2.mailtrack.io^
-@@||assets-jpcust.jwpsrv.com^$domain=sicnoticias.pt
-@@||consent.cookiebot.com^$domain=nos.pt
-@@||google.com/gen_204$domain=google.com
-@@||images.outbrainimg.com^$domain=edition.cnn.com
-@@||play.google.com^
-@@||tsf.pt^$inline-script,domain=tsf.pt
-@@||webnovelpub.com^$ghide
-abc7.com##div.placeholderWrapper:nth-of-type(2)
-abc7.com##div.placeholderWrapper:nth-of-type(3)
+abertoatedemadrugada.com##[href="https://itjobs.pt/"]
 abertoatedemadrugada.com###HTML1 > .title
 abertoatedemadrugada.com###HTML1 > .widget-content
 abertoatedemadrugada.com###HTML15
 abertoatedemadrugada.com###rotatorAADM
-abertoatedemadrugada.com##[href="https://itjobs.pt/"]
 acores.rtp.pt##.pub
 acorianooriental.pt##.d-flex.p-lg-3.p-xs-0.w-100
 acorianooriental.pt##.d-xl-block.d-lg-block.d-md-none.d-xs-none.w-100
@@ -73,27 +95,26 @@ alternet.org###kindest-frame
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
 android-developers.googleblog.com##.icon-sidebar
+androidauthority.com##._cc._-b._bc
+androidauthority.com##._gd._Wb._fd
+androidauthority.com##.-_-Bd.-_-Ad.ad-banner
+androidauthority.com##.-_-mc.-_-lc.ad-banner
 androidauthority.com##.--6b.--4b.--5b
 androidauthority.com##.--ad.--Zi
 androidauthority.com##.--Ib.--6f
 androidauthority.com##.--Nc > p
 androidauthority.com##.--xc.--uc
-androidauthority.com##.-_-Bd.-_-Ad.ad-banner
-androidauthority.com##.-_-mc.-_-lc.ad-banner
-androidauthority.com##._cc._-b._bc
-androidauthority.com##._gd._Wb._fd
 androidauthority.com##main > div:last-child > div > .topLeaderboard:upward(1)
-androidcentral.com###expanding-articles
 androidcentral.com##.dfp-leaderboard-container
 androidcentral.com##.exit-intent__background.exit-intent
 androidcentral.com##.read-more-container
 androidcentral.com##.related-articles-wrap
+androidcentral.com###expanding-articles
 androidguys.com##.td_block_template_4.tdi_12_76c.td-a-rec-id-header.td-a-rec
-apkmirror.com##+js(aeld, load, (event))
 apkmirror.com##.adslot.adsbygoogle
-apkmirror.com##.ains-apkm_developers_injected_1.ains-6.ains
 apkmirror.com##.ains-apkm_dev_page_bottom.ains-9.ains
 apkmirror.com##.ains-apkm_dev_page_top.ains-10.ains
+apkmirror.com##.ains-apkm_developers_injected_1.ains-6.ains
 apkmirror.com##.ains-apkm_outbrain_ad.ains-51.ains
 apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-26.ains
 apkmirror.com##.ains-apkm_release_page_middle.ains-25.ains
@@ -102,114 +123,133 @@ apkmirror.com##.google-ad-leaderboard.gooWidget
 apkmirror.com##.gooWidget
 apkmirror.com##.listWidget > div.appRow
 apkmirror.com##.membership-text.advertisement-text
+apkmirror.com##+js(aeld, load, (event))
 app.raindrop.io##.upgrade-R9fx
 appadvice.com##.aa_padding-tb--20.aa_text--center
+appleinsider.com##.article-body > div.col-sm-12:nth-of-type(2) > div
+appleinsider.com##.reviews > .row > div.row > .col-xs-12 > div
+audiobookbay.fi##.yellow
+audiobookbay.fi##[src="/images/dire.gif"]
 audiobookbay.fi###rsidebar > ul > li > div
 audiobookbay.fi###rsidebar > ul > li:nth-of-type(2) > ul > li
 audiobookbay.fi###rsidebar > ul > li:nth-of-type(4) > h2
 audiobookbay.fi###rsidebar > ul > li:nth-of-type(5)
 audiobookbay.fi###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.fi##.yellow
-audiobookbay.fi##li.social-button
 audiobookbay.fi##li:nth-of-type(4) > div:nth-of-type(2)
 audiobookbay.fi##li:nth-of-type(6) > div
+audiobookbay.fi##li.social-button
+audiobookbay.fi##tr:nth-of-type(27) > td:nth-of-type(1)
+audiobookbay.fi##tr:nth-of-type(27) > td:nth-of-type(2)
 audiobookbay.fi##tr:nth-of-type(32)
 audiobookbay.fi##tr:nth-of-type(68)
-audiobookbay.fi##[src="/images/dire.gif"]
+audiobookbay.is##.yellow
+audiobookbay.is##[src="/images/d-r.gif"]
+audiobookbay.is##[src="/images/dire.gif"]
 audiobookbay.is###rsidebar > ul > li:nth-of-type(4) > h2
 audiobookbay.is###rsidebar > ul > li:nth-of-type(5)
 audiobookbay.is###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.is##.yellow
-audiobookbay.is##li.social-button
+audiobookbay.is###rsidebar > ul > li:nth-of-type(7)
+audiobookbay.is##li:nth-of-type(2) > ul > li > div
 audiobookbay.is##li:nth-of-type(4) > div:nth-of-type(1)
 audiobookbay.is##li:nth-of-type(4) > div:nth-of-type(2)
 audiobookbay.is##li:nth-of-type(6) > div
+audiobookbay.is##li.social-button
 audiobookbay.is##rsidebar > ul > li:nth-of-type(2) > ul > li
+audiobookbay.is##tr:nth-of-type(27) > td:nth-of-type(1)
+audiobookbay.is##tr:nth-of-type(27) > td:nth-of-type(2)
+audiobookbay.is##tr:nth-of-type(28) > td:nth-of-type(1)
+audiobookbay.is##tr:nth-of-type(28) > td:nth-of-type(2)
 audiobookbay.is##tr:nth-of-type(32)
+audiobookbay.is##tr:nth-of-type(51) > td:nth-of-type(1)
+audiobookbay.is##tr:nth-of-type(51) > td:nth-of-type(2)
 audiobookbay.is##tr:nth-of-type(68)
-audiobookbay.is##[src="/images/dire.gif"]
-audiobookbay.is##[src="/images/dire.gif"]
-audiobookbay.li###rsidebar > ul > li > div
-audiobookbay.li###rsidebar > ul > li > h2
-audiobookbay.li###rsidebar > ul > li:nth-of-type(2) > ul > li
-audiobookbay.li###rsidebar > ul > li:nth-of-type(4)
-audiobookbay.li###rsidebar > ul > li:nth-of-type(5) > h2
 audiobookbay.li##.yellow
-audiobookbay.li##li > ul > li > div
-audiobookbay.li##li.social-button
-audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(1)
-audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(2)
 audiobookbay.li##[src="/images/bin.jpg"]
 audiobookbay.li##[src="/images/d-t.gif"]
 audiobookbay.li##[src="/images/dire.gif"]
 audiobookbay.li##[src="/images/fr.jpg"]
 audiobookbay.li##[src="https://audiobookbay.li/images/bz.jpg"]
+audiobookbay.li###rsidebar > ul > li > div
+audiobookbay.li###rsidebar > ul > li > h2
+audiobookbay.li###rsidebar > ul > li:nth-of-type(2) > ul > li
+audiobookbay.li###rsidebar > ul > li:nth-of-type(4)
+audiobookbay.li###rsidebar > ul > li:nth-of-type(5) > h2
+audiobookbay.li##li > ul > li > div
+audiobookbay.li##li.social-button
+audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(1)
+audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(2)
+audiobookbay.lu##.ski
+audiobookbay.lu##.st-animated.st-inline-share-buttons.st-center.sharethis-inline-share-buttons
+audiobookbay.lu##.yellow
+audiobookbay.lu##[src="/images/dire.gif"]
 audiobookbay.lu###rsidebar > ul > li:nth-of-type(2) > ul > li
 audiobookbay.lu###rsidebar > ul > li:nth-of-type(4) > h2
 audiobookbay.lu###rsidebar > ul > li:nth-of-type(5)
 audiobookbay.lu###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.lu##.yellow
-audiobookbay.lu##li.social-button
 audiobookbay.lu##li:nth-of-type(4) > div:nth-of-type(1)
 audiobookbay.lu##li:nth-of-type(4) > div:nth-of-type(2)
 audiobookbay.lu##li:nth-of-type(6) > div
+audiobookbay.lu##li:nth-of-type(7) > h2
+audiobookbay.lu##li:nth-of-type(8) > h2
+audiobookbay.lu##li.social-button
+audiobookbay.lu##tr:nth-of-type(31) > td:nth-of-type(1)
+audiobookbay.lu##tr:nth-of-type(31) > td:nth-of-type(2)
 audiobookbay.lu##tr:nth-of-type(32)
 audiobookbay.lu##tr:nth-of-type(68)
-audiobookbay.lu##[src="/images/dire.gif"]
+audiobookbay.me##.yellow
+audiobookbay.me##[src="/images/dire.gif"]
 audiobookbay.me###rsidebar > ul > li:nth-of-type(2) > ul > li
 audiobookbay.me###rsidebar > ul > li:nth-of-type(4) > h2
 audiobookbay.me###rsidebar > ul > li:nth-of-type(5)
 audiobookbay.me###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.me##.yellow
-audiobookbay.me##li.social-button
 audiobookbay.me##li:nth-of-type(4) > div:nth-of-type(2)
 audiobookbay.me##li:nth-of-type(6) > div
+audiobookbay.me##li.social-button
 audiobookbay.me##tr:nth-of-type(32)
 audiobookbay.me##tr:nth-of-type(68)
-audiobookbay.me##[src="/images/dire.gif"]
+audiobookbay.net##.leftPicCustomWrap
+audiobookbay.net##.yellow
+audiobookbay.net##[src="/images/dir.gif"]
 audiobookbay.net###rsidebar>ul>li:nth-of-type(2)>ul>li
 audiobookbay.net###rsidebar>ul>li:nth-of-type(4)
 audiobookbay.net###rsidebar>ul>li:nth-of-type(5)>h2
 audiobookbay.net###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbay.net##.leftPicCustomWrap
-audiobookbay.net##.yellow
 audiobookbay.net##li.social-button
 audiobookbay.net##tr:nth-of-type(26)>td:nth-of-type(1)
 audiobookbay.net##tr:nth-of-type(26)>td:nth-of-type(2)
 audiobookbay.net##tr:nth-of-type(27)>td:nth-of-type(1)
 audiobookbay.net##tr:nth-of-type(27)>td:nth-of-type(2)
 audiobookbay.net##tr:nth-of-type(41)
-audiobookbay.net##[src="/images/dir.gif"]
+audiobookbay.nl##.leftPicCustomWrap
+audiobookbay.nl##.ski
+audiobookbay.nl##.yellow
 audiobookbay.nl###rsidebar>ul>li:nth-of-type(2)>ul>li
 audiobookbay.nl###rsidebar>ul>li:nth-of-type(4)
 audiobookbay.nl###rsidebar>ul>li:nth-of-type(5)>h2
 audiobookbay.nl###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbay.nl##.leftPicCustomWrap
-audiobookbay.nl##.ski
-audiobookbay.nl##.yellow
 audiobookbay.nl##li.social-button
-audiobookbay.se###rsidebar > ul > li:nth-of-type(4)
-audiobookbay.se###rsidebar > ul > li:nth-of-type(5)
 audiobookbay.se##.ski
 audiobookbay.se##.yellow
+audiobookbay.se##[src="/images/d-t.gif"]
+audiobookbay.se###rsidebar > ul > li:nth-of-type(4)
+audiobookbay.se###rsidebar > ul > li:nth-of-type(5)
 audiobookbay.se##li.social-button
 audiobookbay.se##tr:nth-of-type(27)
 audiobookbay.se##tr:nth-of-type(33)
 audiobookbay.se##tr:nth-of-type(37)
 audiobookbay.se##tr:nth-of-type(52)
-audiobookbay.se##[src="/images/d-t.gif"]
+audiobookbay.ws##.ski
+audiobookbay.ws##.yellow
 audiobookbay.ws###rsidebar>ul>li:nth-of-type(2)>ul>li
 audiobookbay.ws###rsidebar>ul>li:nth-of-type(4)
 audiobookbay.ws###rsidebar>ul>li:nth-of-type(5)>h2
 audiobookbay.ws###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbay.ws##.ski
-audiobookbay.ws##.yellow
 audiobookbay.ws##li.social-button
+audiobookbayabb.com##.yellow
 audiobookbayabb.com###rsidebar>ul>li:nth-of-type(2)>ul>li
 audiobookbayabb.com###rsidebar>ul>li:nth-of-type(4)
 audiobookbayabb.com###rsidebar>ul>li:nth-of-type(5)>h2
 audiobookbayabb.com###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbayabb.com##.yellow
 audiobookbayabb.com##li:nth-of-type(2)>ul>li>div
 audiobookbayabb.com##li:nth-of-type(5)>div
 audiobookbayabb.com##li:nth-of-type(6)>div
@@ -220,16 +260,17 @@ bestfreestreaming.org##.d-block > .img-fluid
 bestfreestreaming.org##.rounded-0.user-select-none.end-0.top-0.position-absolute.bg-opacity-75.bg-black.badge.text-light.text-decoration-none
 bing.com##.feedback-binded.cbtn
 blog.avast.com###Combined-Shape
-blogdoiphone.com###ai_widget-5
-blogdoiphone.com###ai_widget-7
 blogdoiphone.com##.code-block-11.code-block
 blogdoiphone.com##.code-block-22.code-block
 blogdoiphone.com##.code-block-24.code-block
+blogdoiphone.com###ai_widget-5
+blogdoiphone.com###ai_widget-7
 bloodyelbow.com##.remixd-wrapper
 boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > .i-amphtml-fill-content
 boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
 bol.pt###Barra_ctl00_ctl00_lblPublicidade
 bookaudiobooks.com##.ai_widget.widget
+byacores.com##.postcontent > .text-center
 caixadirectaonline.cgd.pt###bit-notification-bar-iframe
 caixadirectaonline.cgd.pt###modal_shadow_pzero
 caixadirectaonline.cgd.pt###zeroHPModalPanel
@@ -244,25 +285,31 @@ cmjornal.pt##.subscrever_whatsapp
 cnbc.com##.BoxRail-styles-makeit-ad--1rgf0.BoxRail-styles-makeit-container-right--3SfNY
 cnet.com##.c-head_disclosure
 cnet.com##.fixed.isCenter.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
-cnnportugal.iol.pt###popover
 cnnportugal.iol.pt##.bell
+cnnportugal.iol.pt###popover
 consultaremedios.com.br##.ads-label-class-div-gpt-ad-1606158179790-0.advertising-label
 correiodosacores.pt##.edn_socialPrintWrapper
 custojusto.pt##.impresa.container
 custojusto.pt##[class*="home_sas_"]
 custojusto.pt##[class*="listItemsCards_sas-container"]
+custojusto.pt##[class*="listItemsCards_slot-container"]
 custojusto.pt##[class*="vi_sas-container__"]
+dailysceptic.org##.elementor-widget-jnews_element_ads_elementor.elementor-widget.elementor-element-3e41cd3.elementor-element
 dailywire.com##.wisepops-root
 darkreading.com##.Ad_pos_300_1v_article.Ad
 darkreading.com##.ArticleBase-AdTop.Ad
+ddownload.com##.plan
+deadline.com##.u-flex.a-sticky\@desktop-xl.a-article-grid__social
 desksoft.com##center
 desksoft.com##td:nth-of-type(6)
 destinoseguro.azores.gov.pt###accessibility-links
 destinoseguro.azores.gov.pt###glt-translate-trigger
+diariodalagoa.pt##.lazyloaded.publicimgbannerpub
 diariodalagoa.pt##.lbl-pub
+diariodalagoa.pt##.slick-slider.slick-initialized.pubslider.apub
 diariodegoias.com.br##.prop-container
-direstraitsblog.com###text-4
 direstraitsblog.com##.bd-fb-likebox.widget-main.widget
+direstraitsblog.com###text-4
 discover.hubpages.com##.mm-component-stack--is-stacked.m-component-stack.nocontent.m-outbrain
 dn.pt##.d-lg-inline-block.d-none.pub-wrapper
 dn.pt##.post-body > div > .pub-wrapper > div
@@ -270,18 +317,20 @@ dn.pt##.sk-pub
 dn.pt##.sk-showing.sk-notification-dialog
 dn.pt##.t-s2-col-3
 dnoticias.pt##.pub--wrapper
-doutorfinancas.pt###footer
 doutorfinancas.pt##.align-items-start.d-lg-flex.d-none.col-1
 doutorfinancas.pt##.py-4.background-partner-kk.lazy.background--image-cover.bg-custom_sticky.blog-footer-bar
+doutorfinancas.pt###footer
 e-konomista.pt##.wp-block-adc-post-header-sponsor
 eco.sapo.pt##div.amp-wp-content:nth-of-type(2)
-edition.cnn.com##.CRAB_4.ob-classic-layout.ob-widget > .ob-first.ob-widget-section > .ob-widget-header
 edition.cnn.com##.CRAB_4.ob-classic-layout.ob-widget > .ob_what
+edition.cnn.com##.CRAB_4.ob-classic-layout.ob-widget > .ob-first.ob-widget-section > .ob-widget-header
 emprego.sapo.pt##.pub-inline
 en.news.xiaomi-miui.gr##div[class^="google_responsive"]
 en.news.xiaomi-miui.gr##div[id^="ai_widget"]
 en.news.xiaomi-miui.gr##div[id^="block"]
 en.wikipedia.org###siteNotice
+eu.freep.com##.secondary
+eu.freep.com##.secondary > .content-well
 eu.usatoday.com##.secondary > .content-well
 eu.usatoday.com##.secondary > .content-well > .module-slot
 euronews.com##.o-article__aside__content-1-magazine.o-article__aside__content-1.o-article__aside__content
@@ -294,22 +343,19 @@ expresso.pt##.container-unique.container
 expresso.pt##.disqus-comment-count
 expresso.pt##.navigate-to-comments.comment-link
 expresso.pt##.shareTools2020Wrapper
-facebook.com###fbcmfToggle
-facebook.com##div[role="complementary"] > div[class] > div[class] > div[class] span > div > div:not([aria-label]):not([data-visualcompletion]):has(> div[class] > div[class] div[class] > a[href^="https://l."][href*="facebook.com/l.php?u="][target="_blank"])
-facebook.com##footer
-facebook.com##[aria-label*="Marketplace"] object > a[href^="/ads/"] > span:not(:empty):upward(11)
 feedly.com##.fixed-bar
 feedreader.com###feedback
-filecr.com##+js(abort-on-property-write, advanced_ads_check_adblocker)
 filecr.com##.top-header-ad
+filecr.com##+js(abort-on-property-write, advanced_ads_check_adblocker)
 fivethirtyeight.com##.a9-sidebar-ad.widget
+flash.pt##.pubInContentMargin
 flash.pt###mrec1
 flash.pt###mrec2
-flash.pt##.pubInContentMargin
-forbes.com###consent_blackbar
+folha.uol.com.br##.u-visible-md.col-fixed--md-300.col-fixed
 forbes.com##.desktop.openWeb-commenting
 forbes.com##.openWeb-wrapper
 forbes.com##.trustarc-background.trustarc-banner-background.trustarc-banner-wrapper
+forbes.com###consent_blackbar
 forbes.com##fbs-embedly
 fortune.com##div.gvbiof.sc-6c9f60ea-7
 fortune.com##div.hIZRmW.sc-clIzBv
@@ -320,37 +366,38 @@ freemactorrent.com###bloc-title-safe
 gazettelive.co.uk##.topbox-cls-placeholder
 ghpage.com##.cXZkom.styles__Prompt-sc-17zujcx-0.aw-wpn-prompt
 givemesport.com###sn_gg_ad_wrapper
+gizmodo.com##.dark\:bg-neutral-800.bg-neutral-100.my-8.mx-auto.text-center.max-w-7xl.print\:lg\:hidden.lg\:block.hidden.banner
+gizmodo.com##.min-h-\[350px\].relative
+gizmodo.com##.my-8.print\:md\:hidden.md\:block.hidden.banner
+gizmodo.com##.text-center.min-h-\[616px\]
 google.com##.uU7dJb
 gsmarena.com##.pt-10.align-center.justify-center.flex-column.d-flex
 gsmarena.com##div.module:nth-of-type(4) > .section-heading
 gsmarena.com##div.module:nth-of-type(4) > div
 hellgatenyc.com##.wp-embed-responsive.PostContent_wrapper__oih1Z > div
+hiphopdx.com##.banner
+hiphopdx.com##.banner > .container > .border > .ad-border-top
 holofote.sapo.pt##.sticky-footer
 howtotwitch.com###ai_widget-2
-hrportugal.sapo.pt###jvc-7
-hrportugal.sapo.pt###jvc-8
 hrportugal.sapo.pt##.sticky-active.wrapper-sticky
 hrportugal.sapo.pt##.widget_custom_html.widget.primary-sidebar-widget.w-nt.h-ni.widget_text
 hrportugal.sapo.pt##.widget_jvc.widget.primary-sidebar-widget.w-nt.w-bg-f3f6f6.w-bg.h-ni
+hrportugal.sapo.pt###jvc-7
+hrportugal.sapo.pt###jvc-8
 hulldailymail.co.uk##.topbox-cls-placeholder
 ibtimes.com##.wf2-bg-dark.grwf2_backdrop
+iclarified.com##.ad_break_container
 iclarified.com##.ad_break2_box_ad1
 iclarified.com##.ad_break2_container
-iclarified.com##.ad_break_container
 iclarified.com##.header_ad1
 iclarified.com##div.adthrive-placeholder-content
+idealista.pt##.sas-banner
 idealista.pt###block-idealista-news-smart-format-roba-block
 idealista.pt###publi_16392
-idealista.pt##.sas-banner
 idevicecentral.com##.wp-block-group-is-layout-constrained.wp-container-core-group-layout-28.is-layout-constrained.has-background.has-popcorn-element-background-background-color.popcorn-box-shadow.wp-block-group
 idownloadblog.com###AdThrive_Content_2_desktop
 idownloadblog.com###AdThrive_Sidebar_1_desktop
 ilecr.com##+js(abort-on-property-read, mdpDeBlocker)
-imore.com###affiliate-disclaimer
-imore.com###expanding-articles
-imore.com###sidebar-popular-bottom
-imore.com###sidebar-popular-top
-imore.com###sidebar-top
 imore.com##.ad-unit.in-article
 imore.com##.col-2of3\@tablet.col-3of3.article-footer--taboola.article-footer
 imore.com##.dfp-leaderboard-container
@@ -360,15 +407,22 @@ imore.com##.jw-carousel
 imore.com##.related-articles-wrap
 imore.com##.van_taboola
 imore.com##.vid-present.van_vid_carousel
+imore.com###affiliate-disclaimer
+imore.com###expanding-articles
+imore.com###sidebar-popular-bottom
+imore.com###sidebar-popular-top
+imore.com###sidebar-top
 independent.co.uk##.ePjoNe.sc-uo1whf-0.dDZyIt.sc-1pfx6hk-0
 jalopnik.com##.js_more-below-post.hNjGzN.sc-1or3yyu-5
 jewishjournal.com##.stretch_row.tdc-row
 jn.pt##.sk-showing.sk-notification-dialog
-jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_68.vc_column > .wpb_wrapper
-jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_91.vc_column
 jornalacores9.pt##.td_block_template_5.tdi_1.td-a-rec-id-header.td-a-rec
 jornalacores9.pt##.td_block_template_5.tdi_31.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap > div > .td_spot_img_all
 jornalacores9.pt##.td_block_template_5.tdi_8.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap > div > .td_spot_img_all
+jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_68.vc_column > .wpb_wrapper
+jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_91.vc_column
+kick.com##.lg\:w-full.lg\:mx-0.font-semibold.text-sm.text-center.py-1.px-2.w-\[calc\(100\%\+32px\)\].-mx-4.text-surface-lower.bg-primary
+leak.pt##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_67.vc_row_inner
 letelegramme.fr##.tlg-block-small-padding.tlg-text-center.tlg-layout-block
 letelegramme.fr##.tlg-sticky-mobile.tlg-sticky.tlg-hidden-sm.tlg-hidden-xs.tlg-text-center.tlg-layout-block > .tlg-ad-container
 lifehacker.com##.pt-8.mt-8.top-0
@@ -381,17 +435,21 @@ livenewsmag.com##.g1-teaser-prev.g1-teaser
 livenewsmag.com##.g1-teaser-prev.g1-teaser > .g1-teaser-arrow
 livenewsmag.com##.mashsb-buttons
 lovebscott.com##.sf-sidebar-wrapper
+macmagazine.com.br##.widget_block.block-3.widget
+macmagazine.com.br##.wp-block-group-is-layout-constrained.is-layout-constrained.is-style-cnvs-block-bg-light.wp-block-group
 macosicons.com##.gitHub-sponsor
 macrumors.com##.abovebanner--Vj-emp0H
 macstories.net##.post-tags
 mail.google.com##.modal__overlay
 mail.google.com##.ZY
+marketeer.sapo.pt###yqsmhd-11 > .yqsmhd-column-1.yqsmhd-align-center.yqsmhd-clearfix.yqsmhd
 meaww.com##.page-content-wrapper.header-margin.category-container.container > div:nth-of-type(3)
 msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
 msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-3
 msn.com##.riverSections-DS-EntryPoint1-1 > div:nth-of-type(1) > div:nth-of-type(3)
-msn.com##msn-windows-footer
 msn.com##[class^="articlePage_eoabContent"]
+msn.com##msn-windows-footer
+musio.net.br##.justify-sm-end.justify-center.d-flex.sidebar-music.col-md-4.col-sm-4.col-12
 my.1password.com##.trial-banner--index_ow9MP
 myfitnesspal.com##.css-1hxzbui.MuiBox-root
 myfitnesspal.com##.css-nv096v.MuiBox-root
@@ -409,11 +467,11 @@ net-empregos.com##div.my-1:nth-of-type(4)
 net-empregos.com##div.my-1:nth-of-type(9)
 news.google.com##.ghN9W
 news.yahoo.com###sda-MON
-noticiasaominuto.com###casa-popout-section
 noticiasaominuto.com##.escolha-consumidor-badge-content
 noticiasaominuto.com##.ffy-link-container
 noticiasaominuto.com##.news-social-bottom.row
 noticiasaominuto.com##.v-margin-15.pub-container-block.col-xs-12.col-sm-6.col-md-6.col-lg-4
+noticiasaominuto.com###casa-popout-section
 noticiasaominuto.com##div.hidden-xs > .margin-top-15.tap.col-xs-12.col-sm-6.col-md-6.col-lg-4
 noticiasaominuto.com##div.hidden-xs > .pais.col-xs-12.col-sm-6.col-md-6.col-lg-4
 noticiasaominuto.com##div.hidden-xs > div.lifestyle.col-xs-12.col-sm-6.col-md-6.col-lg-4
@@ -423,41 +481,47 @@ noticiasetecnologia.com##.container-fluid.site-header
 nytimes.com###app>div>div[class^="css-"]:style(position:static!important)
 nytimes.com###app>div>div[class^="css-"]>div[aria-hidden="true"]+div[class^="css-"]
 nytimes.com###gateway-content
-oantagonista.uol.com.br###aux-bar > .aux-bar
 oantagonista.uol.com.br##.entry-content > .aux-bar
+oantagonista.uol.com.br###aux-bar > .aux-bar
 observador.pt##.obs-ad-placeholder-manchete.fbg-container.obs-ad-placeholder
 observador.pt##.obs-cta-size-1-short.obs-cta > .content
 observador.pt##.obs-cta-size-1-short.obs-cta > .content > .obs-button
+observador.pt##.obs-wrapper-expanded
 observador.pt##.tinkerbell.alerts-popup
+observador.pt##.toaster-btn
+observador.pt###header-hardcoded
+observador.pt###toaster-hardcoded
+okmagazine.com##div.fYQCFi.sc-jlQhLH
 olx.pt###laq-7fzwEE6mKNL7 > .laq-survey
 ominho.pt###wpgtr_stickyads_textcss_container
 osxdaily.com##.ml-form-align-center
 phandroid.com##.phand-article-top
 phonearena.com##.card-default.card.no-counter.announcement-widget-item
+photos.google.com##.oKzLoc.FaAChf.xurAO.SMXix
+phys.org##.d-print-none.d-lg-block.d-none.article-sidebar.col-xl-3.col-lg-4.col-md.offset-xl-1 > div.my-4:nth-of-type(2)
 piunikaweb.com##.gray-white-bg.gray-darker.facebook-comments
 plasticosydecibelios.com##.code-block-1.code-block
-poligrafo.sapo.pt###features-promotion
+pobre.wtf##.dns-message
 poligrafo.sapo.pt##.article-share.\].\[
 poligrafo.sapo.pt##.content > .article-inline-ads-2020.\].align-center.vertical-space.\[ > .special-ctn
 poligrafo.sapo.pt##.fugly-ads.\].align-center.vertical-space.ink-grid.\[
 poligrafo.sapo.pt##.ifcn-badge.\].top-space.\[
-poligrafo.sapo.pt##.special-ctn
 politifact.com##.m-sharing
+portal.act.gov.pt###popupConsent
 portal.azores.gov.pt##.no-print.portal-portlet-socialShare
 portal.azores.gov.pt##.no-print.portlet-print--content-wrap
 portal.azores.gov.pt##.portal-portlet-user-dash--wrap
 portal.azores.gov.pt##.portal-portlet-youAreHere
 portal.azores.gov.pt##.template-normal--scroll-image
-pplware.sapo.pt###\#sidepub
+pplware.sapo.pt##.google_news
 pplware.sapo.pt##.group.pad > div > .group.related-posts
 pplware.sapo.pt##.post.post-thumbnail
+pplware.sapo.pt###\#sidepub
+pplware.sapo.pt###block-6
 prociv.azores.gov.pt##.st-animated.st-inline-share-buttons.st-has-labels.st-lang-pt.st-left.hide-for-print.sharethis-inline-share-buttons
 projects.fivethirtyeight.com###ad
 pt.wikipedia.org##.cn-wle_2023_pt
 pt.xhamster.com##.modal-886ab
-publico.pt###piano--ticker
-publico.pt###publico-ticker
-publico.pt###ticker-paywall-geneint2
 publico.pt##.ad-slot--double.ad-slot
 publico.pt##.ad-slot--sticky.ad-slot
 publico.pt##.datawall-warning.site-message--datawall.site-message--notice.site-message
@@ -468,6 +532,9 @@ publico.pt##.show-for-large.ad-slot--double.ad-slot
 publico.pt##.social-tools
 publico.pt##.stack-social-tools.stack--learn-more.stack
 publico.pt##.trinityAudioPlaceholder
+publico.pt###piano--ticker
+publico.pt###publico-ticker
+publico.pt###ticker-paywall-geneint2
 radioilheu.pt##.single-post-like
 radioilheu.pt##.single-post-share-big-inner
 rapidsave.com##.about.card.col-md-offset-2.col-md-8
@@ -478,11 +545,8 @@ rapidsave.com##footer
 rapidsave.com##footer > p
 readwrite.com##.post-author-profile.col-md-1
 record.pt###texto_socialShare
-reddit.com###header-bottom-right > span.separator:nth-of-type(4)
-reddit.com###NREPause
-reddit.com###RESShortcutsEditContainer
-reddit.com###sr-more-link
-reddit.com##+js(aeld, touchmove)
+reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+reddit.com##._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
 reddit.com##.access-required.nohavemail
 reddit.com##.bottom-bar, .XPromoBottomBar
 reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT._3hna43Sh0DTnoV7v2NNc2r
@@ -495,36 +559,51 @@ reddit.com##.XPromoInFeed
 reddit.com##.XPromoPopup
 reddit.com##.XPromoPopupRpl
 reddit.com##.XPromoPopupRplNew
-reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-reddit.com##._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
+reddit.com###header-bottom-right > span.separator:nth-of-type(4)
+reddit.com###NREPause
+reddit.com###RESShortcutsEditContainer
+reddit.com###sr-more-link
+reddit.com##+js(aeld, touchmove)
+reddit.com##body:style(pointer-events:auto!important;)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-reddit.com##body:style(pointer-events:auto!important;)
 reddit.com##xpromo-app-selector
 reddit.com##xpromo-new-app-selector
-redditsave.com###faq
 redditsave.com##.alert-info.alert.col-md-offset-2.col-md-8
 redditsave.com##.no-mrg.navbar-default.navbar
+redditsave.com###faq
 redditsave.com##footer
 removepaywall.com##.dpKljD.sc-75e21d3c-8
 removepaywall.com##.ivmcUg.sc-de2ca277-12
 reuters.com##.leaderboard__slot__1_SQv > div > .ad-slot__container__FEnoz
+revistaquem.globo.com##.content__share-bar-container
 rtp.pt##.hidden-print.bg-medium-gray
 rtp.pt##.text-right.margin-top-20 h6
+rutracker.org##.hide-for-print.ta-inf2.top-alert
+rutracker.org##[src="https://rutrk.org/240x120/volet_02.jpg"]
 sabado.pt##.contador
 samlover.com##.widget_text.widget_block.inner-padding.widget
-sammobile.com###venatus-hybrid-banner
 sammobile.com##.affiliate-disclosure
+sammobile.com###venatus-hybrid-banner
+sammyguru.com##.et_pb_row_0_tb_footer.et_pb_row
 sciencebasedmedicine.org###themegrill_social_icons-2
 sciencebasedmedicine.org##div.twitter-share
+sciencebasedmedicine.org##div#crestashareiconincontent.first_style.cresta-share-icon
 sendbig.com##.container-fluid.footer
 sendbig.com##.footer-copyright-row.row
 sicnoticias.pt##.sas-assinaturas.ad-container
+sicnoticias.pt##.sas-outstream.ad-container
+sicnoticias.pt##.sticky.vertical.share-buttons li
 signulous.com##.dashboard__news
-snopes.com###offer-0-OxWuv
+slate.com##.generic-plus-promo
 snopes.com##.smg-zone-group-sidebar-single.smg-zone-group > .smg-zone-widget-composer.smg-zone-widget > .composer
 snopes.com##.smg-zone-widget-composer.smg-zone-widget
 snopes.com##.tp-container-inner
+snopes.com###offer-0-OxWuv
+soccerlive.app##.navbar-light.navbar-expand-sm.navbar
+sol.sapo.pt##.kb-section-dir-vertical.kvs-sm-false.kvs-md-false.kadence-column678124_389da9-0c.wp-block-kadence-column
+sol.sapo.pt##.wp-block-group-is-layout-constrained.is-layout-constrained.wp-block-group > .wp-block-group-is-layout-constrained.is-layout-constrained.px-5xs.wp-block-group > div.spacer-2sm-m_spacer-lg-d.wp-block-spacer
+sol.sapo.pt###opinion > div.spacer-2sm-m_spacer-lg-d.wp-block-spacer
 sol.sapo.pt###rc > center:nth-of-type(1) > div:nth-of-type(1)
 sol.sapo.pt###rc > center:nth-of-type(2)
 sol.sapo.pt##center:nth-of-type(1) > div:nth-of-type(2)
@@ -536,79 +615,80 @@ tabs.ultimate-guitar.com##.iWe5J
 techcrunch.com##.piano-ribbon-container
 techdirt.com##.scw-wrap
 techdirt.com##section:nth-of-type(3) > div:nth-of-type(2)
-techradar.com###sidebar-popular-bottom
 techradar.com##.infinite-container
+techradar.com###sidebar-popular-bottom
 techtudo.com.br##.ads
+techviral.net##.code-block-h-280px.code-block-center
 techviral.net##.td-header-rec-wrap
 techviral.net##div.code-block-h-250px.code-block-center
 tecnoblog.net###ad-side-small-1
+tek.sapo.pt##.\].hide-medium.hide-small.hide-tiny.\[ > .\].\[ > .special-ctn > .pub-2020
 tek.sapo.pt##.inline-features-promotion.\].vertical-space.\[
 tek.sapo.pt##.special-ctn
-tek.sapo.pt##.\].hide-medium.hide-small.hide-tiny.\[ > .\].\[ > .special-ctn > .pub-2020
 tenforums.com##.chill
 theatlantic.com##.Leaderboard_placeholder__vaqr1.Leaderboard_root__nPXmd.GptAd_root__2eqVh
 theatlantic.com##.qc-cmp2-container
+theaudiobookbay.me##.yellow
+theaudiobookbay.me##[src="/images/dire.gif"]
 theaudiobookbay.me###rsidebar > ul > li > div
 theaudiobookbay.me###rsidebar > ul > li:nth-of-type(2) > ul > li
 theaudiobookbay.me###rsidebar > ul > li:nth-of-type(4) > h2
 theaudiobookbay.me###rsidebar > ul > li:nth-of-type(5)
 theaudiobookbay.me###rsidebar > ul > li:nth-of-type(6) > h2
-theaudiobookbay.me##.yellow
-theaudiobookbay.me##li.social-button
 theaudiobookbay.me##li:nth-of-type(4) > div:nth-of-type(2)
 theaudiobookbay.me##li:nth-of-type(6) > div
+theaudiobookbay.me##li.social-button
 theaudiobookbay.me##tr:nth-of-type(27) > td:nth-of-type(1)
 theaudiobookbay.me##tr:nth-of-type(27) > td:nth-of-type(2)
 theaudiobookbay.me##tr:nth-of-type(32)
 theaudiobookbay.me##tr:nth-of-type(68)
-theaudiobookbay.me##[src="/images/dire.gif"]
+theaudiobookbay.net##.yellow
+theaudiobookbay.net##[src="/images/d-t.gif"]
+theaudiobookbay.net##[src="/images/dire.gif"]
 theaudiobookbay.net###rsidebar > ul > li > div
 theaudiobookbay.net###rsidebar > ul > li:nth-of-type(2)
 theaudiobookbay.net###rsidebar > ul > li:nth-of-type(4) > h2
 theaudiobookbay.net###rsidebar > ul > li:nth-of-type(5)
 theaudiobookbay.net###rsidebar > ul > li:nth-of-type(6) > h2
-theaudiobookbay.net##.yellow
-theaudiobookbay.net##li.social-button
 theaudiobookbay.net##li:nth-of-type(4) > div:nth-of-type(2)
 theaudiobookbay.net##li:nth-of-type(6) > div
+theaudiobookbay.net##li.social-button
 theaudiobookbay.net##rsidebar > ul > li:nth-of-type(2) > ul > li
 theaudiobookbay.net##tr:nth-of-type(32)
 theaudiobookbay.net##tr:nth-of-type(68)
-theaudiobookbay.net##[src="/images/d-t.gif"]
-theaudiobookbay.net##[src="/images/dire.gif"]
-theaudiobookbay.net##[src="/images/dire.gif"]
+theaudiobookbay.se##.yellow
+theaudiobookbay.se##[src="/images/d-t.gif"]
+theaudiobookbay.se##[src="/images/dire.gif"]
 theaudiobookbay.se###rsidebar > ul > li > div
 theaudiobookbay.se###rsidebar > ul > li:nth-of-type(2)
 theaudiobookbay.se###rsidebar > ul > li:nth-of-type(4) > h2
 theaudiobookbay.se###rsidebar > ul > li:nth-of-type(5)
 theaudiobookbay.se###rsidebar > ul > li:nth-of-type(6) > h2
-theaudiobookbay.se##.yellow
-theaudiobookbay.se##li.social-button
 theaudiobookbay.se##li:nth-of-type(4) > div:nth-of-type(2)
 theaudiobookbay.se##li:nth-of-type(6) > div
+theaudiobookbay.se##li.social-button
 theaudiobookbay.se##rsidebar > ul > li:nth-of-type(2) > ul > li
 theaudiobookbay.se##tr:nth-of-type(32)
 theaudiobookbay.se##tr:nth-of-type(68)
-theaudiobookbay.se##[src="/images/d-t.gif"]
-theaudiobookbay.se##[src="/images/dire.gif"]
-theaudiobookbay.se##[src="/images/dire.gif"]
 theblast.com##.kargoad-theblast_desktop_rightrail
 theblast.com##.kargoad-theblast_desktop_rightrail2
 thedailybeast.com##.GoogleReadaloud
+thehackernews.com##.akku.sidefix.box-side.clear
 thehackernews.com##div.cf.pixpix
 thehackernews.com##div.okaybob.clear.okay_two
 thehackernews.com##div.okaybob.clear.okay_two:nth-of-type(2)
+thehill.com##.instaread-audio-player
 thehill.com##.ns-block-embed-anvato
 thelist.com###primis-container
 theness.com##p:nth-of-type(2)
 theregister.com##.sharing_box
 thesun.co.uk###list-11
-theverge.com###newsletter-signup-short-form
 theverge.com##.lg\:flex-1.lg\:flex-col.lg\:flex.text-white.z-0.hidden.max-h-\[6000px\].max-w-\[300px\].duet--layout--rail > div.flex-auto > .lg\:block.hidden.mx-auto
 theverge.com##.lg\:flex-1.lg\:flex-col.lg\:flex.text-white.z-0.hidden.max-h-\[6000px\].max-w-\[300px\].duet--layout--rail > div.flex-auto:nth-of-type(1)
 theverge.com##.md\:px-34.px-20 > .lg\:block.hidden.mx-auto
 theverge.com##.outbrain_article.dfp_ad--outbrain.dfp_ad--full-width
 theverge.com##.remixd-wrapper
+theverge.com###newsletter-signup-short-form
 tomsguide.com##.exit-intent__background.exit-intent
 tsf.pt##.pub-wrapper
 tsf.pt##.sk-pub
@@ -619,895 +699,279 @@ tuasaude.com##.tuasaude-br-article-body-3.mrec-container
 tuasaude.com##.tuasaude-en-article-body-2.mrec-container
 tugatech.com.pt###pb-topo2
 tvi.iol.pt##.hidemobile
+tvi.iol.pt##.pubdiv
 twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
+twitter.com##[aria-label="Get Verified"]
 twitter.com##aside[aria-label="Assine o Premium"]:upward(1)
 twitter.com##aside[aria-label="Subscribe to Premium"]:upward(1)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(3)
-twitter.com##[aria-label="Get Verified"] 
 unsplash.com##.lSBnl.bsjaC.aOKtF
 uol.com.br##.up-floating > div
 vagasacores.pt##.made-with-softr
 vagasacores.pt##a.iubenda-embed.iubenda-noiframe.iubenda-white
 vanityfair.com##.modal-overlay
 vanityfair.com##.paywall-modal-container
-viral.sapo.pt###page-16424 > .my-4.px-0.container
 viral.sapo.pt##.mb-2.mt-n4
 viral.sapo.pt##.pl-md-3.pl-sm-0.pr-0.col-md-auto.col-pub.entry-content
+viral.sapo.pt###page-16424 > .my-4.px-0.container
+visao.pt##.auto-pub-incontent.pub
+visao.pt##.rmp-ad-container
+visao.pt##.show.fade.modal-backdrop
+visao.pt##.tin-pub-inner
+visao.pt###TinAdPopup
+visao.pt##body,html:style(overflow: auto !important;)
 visao.sapo.pt##.show.fade.modal-backdrop
 visao.sapo.pt##.sticky-footer
 visao.sapo.pt##.webPushIframe
 wccftech.com##body > .d-md-block.d-none
 webnovelpub.com##.left-panel > .xneJbxmQ.ad-sticky.bSGR_lxI
 webnovelpub.com##.right-panel > .xneJbxmQ.ad-sticky.bSGR_lxI
-webnovelpub.com##div.container
 webnovelpub.com##[data-pw-desk="leaderboard_btf"]:upward(div)
+webnovelpub.com##div.container
 windowsreport.com###sfbnri
-wired.com###bookmark
 wired.com##.desktop.fDfnKl.PaywallBarWrapper-mFAVR
 wired.com##.hr-top.headroom.ad__slot--post_nav.justify-c.align-m.flex-box.bg-gray-1.brad-top.rad
 wired.com##.kgXyAM.ActionBarWrapperContent-lasBkU
 wired.com##.viewport-monitor-anchor.zaHmJ.ActionBarWrapper-dhxmQh
+wired.com###bookmark
 wonderwall.com##.news-content-footer
 wonderwall.com##.right-aside-wrapper.sidebar-wrapper
 worten.pt##.w-margin-top.w-section-content__box.w-section__html.w-section__wrapper__content
 wrestling.pt##.pubartigo
 wrestling.pt##.pubheader
 wsj.com###cx-what-to-read-next
-xda-developers.com##.article-footer-newsletter
-xda-developers.com##.et_social_mobile_off.et_social_sidebar_grow.et_social_rectangle.et_social_animated.et_social_slideright.et_social_visible_sidebar.et_social_sidebar_networks > .et_social_icons_container
-xiaomiui.net##.h1ad.ads_ads
-yahoo.com###sda-MON
-youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
-youtube.com###related ytd-compact-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set,ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"])
-youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##ytd-reel-shelf-renderer
-youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##[is-shorts]
-youtube.com##[tab-title="Shorts"]
-youtube4kdownloader.com##.banner-bottom
-youtube4kdownloader.com##.blog-article.block
-youtube4kdownloader.com##.copyright
-youtube4kdownloader.com##.disqus.content
-youtube4kdownloader.com##.footer-lang
-youtube4kdownloader.com##.st-has-labels.st-toggleable.st-left.st-sticky-share-buttons.sharethis-sticky-share-buttons
-youtube4kdownloader.com##footer > svg
-youtube4kdownloader.com##footer > svg > path
-youtube4kdownloader.com##footer > ul
-youtube4kdownloader.com##section.focus-d.content:nth-of-type(2)
-yts.mrunblock.life##div.hidden-sm.hidden-xs > .alwocme4ir
-zap.aeiou.pt###pub-textlink
-zap.aeiou.pt##.code-block-15.code-block
-zap.aeiou.pt##.code-block-25.code-block
-zap.aeiou.pt##.code-block-30.code-block
-zap.aeiou.pt##.code-block-4.code-block
-zap.aeiou.pt##.code-block-9.code-block
-zdnet.com###onetrust-consent-sdk
-||accounts.google.com/gsi/iframe/select$subdocument
-||audiobookbay.fi/images/bin.jpg$image
-||audiobookbay.fi/images/bz.jpg$image
-||audiobookbay.fi/images/d-t.gif$image
-||audiobookbay.fi/images/dire.gif$image
-||audiobookbay.fi/images/twi.jpg$image
-||audiobookbay.is/images/bz.jpg$image
-||audiobookbay.is/images/bz.jpg$image
-||audiobookbay.li/images/bz.jpg$image
-||audiobookbay.li/images/d-t.gif$image
-||audiobookbay.li/images/dire.gif$image
-||audiobookbay.li/wp-content/themes/simplebalance/img/background.png$image
-||audiobookbay.net/images/bin.jpg$image
-||audiobookbay.nl/images/audiobook.png$image
-||audiobookbay.nl/images/bin.jpg$image
-||audiobookbay.nl/images/bz.jpg$image
-||audiobookbay.nl/images/d-t.gif$image
-||audiobookbay.nl/images/direct.gif$image
-||audiobookbay.se/images/dir.gif$image
-||audiobookbay.se/images/fr.jpg$image
-||audiobookbay.ws/images/bin.jpg$image
-||audiobookbay.ws/images/d-t.gif$image
-||download.bitdefender.com/resources/themes/red/images_colorbox/overlay.png$image
-||facebook.com/ajax/bnzai?__a=1&__aaid=2516290475092677&__ccg=EXCELLENT&__comet_req=15&__hs=19291.HYP%3Acomet_pkg.2.1.0.2.1&__hsi=7158717821999713694&__req=h&__rev=1006466405&__s=5zu3fg%3Aey9uyp%3Az11w13&__spin_b=trunk&__spin_r=1006466405&__spin_t=1666768878&__user=100033246832787&dpr=1&fb_dtsg=NAcOmbGksfrNNEuFEW8-beIEjviPyJn6UwFg0WV69vKFs0tM31KgbNQ%3A5%3A1664969539&jazoest=25385&lsd=1hSyis3WWM2Lw0mdA7Bn4X&ph=C3$xhr,domain=facebook.com
-||forum.mobilism.org/styles/BBOOTS/imageset/express1.png$image
-||freemactorrent.com/bg-safe.png$image
-||gstatic.com/inputtools/images/tia.png$image
-||ibt-mail.com/site2/ibts_fast_start/$subdocument
-||jornalacores9.pt/wp-content/uploads/2022/09/centroptico-set-22-1*.jpg$image
-||jornalacores9.pt/wp-content/uploads/2022/10/novobanco-Credito-Pessoal.gif$image
-||media-manager.noticiasaominuto.com/1280/636534ac178d4.jpeg?crop_params=e30=$image
-||media-manager.noticiasaominuto.com/640/naom_63bdb18506af6.jpeg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||sciencebasedmedicine.org/wp-content/uploads/2018/08/become-a-patron-button.png$image
-||static.cgd.pt/staticCMS/cdo/global/img/Fraude_PaginaZero_4.png$image
-||theaudiobookbay.me/images/d-t.gif$image
-||thefreelibrary.com/_/static/bg.gif$image
-
-! 2024-03-29 https://youtube4kdownloader.com
-youtube4kdownloader.com##.sub-form-container
-
-! 2024-04-03 https://visao.pt
-visao.pt##.tin-pub-inner
-visao.pt##.rmp-ad-container
-visao.pt##.auto-pub-incontent.pub
-
-! 2024-04-04 https://www.livenewsmag.com
-www.livenewsmag.com###pum-3669
-
-! 2024-04-05 https://www.kuantokusta.pt
-www.kuantokusta.pt###stores > .c-tDSnG
-
-! 2024-04-06 https://www.independent.ie
-www.independent.ie##.ad--leaderboard.ad
-
-! 2024-04-07 https://audiobookbay.lu
-audiobookbay.lu##.ski
-
-! 2024-04-10 https://audiobookbay.is
-audiobookbay.is##[src="/images/d-r.gif"]
-
-! 2024-04-21 https://thehackernews.com
-thehackernews.com##.akku.sidefix.box-side.clear
-
-! 2024-04-23 https://odia.ig.com.br
-odia.ig.com.br###rodapefixo
-
-! 2024-04-23 https://www.google.com
-www.google.com##.b0KoTc
-
-! 2024-04-23 https://www.contacto.lu
-www.contacto.lu##.ad-element_ad--leaderboard__HCIQI.ad-element_ad__7IwrW
-www.contacto.lu##div.storyblock-list_ad__aixfY.ad-element_ad--rectangle__mFKuE.ad-element_ad__7IwrW
-
-! 2024-04-26 https://expresso.pt
-expresso.pt##.bloco-publicidade-first-billboard.bloco-publicidade.bloco.full-width.no-sidebar.main-section
-
-! 2024-04-28 https://www.wired.com
-www.wired.com##.hBemTr.ActionBarWrapperContent-lasBkU
-
-! 2024-04-28 https://macmagazine.com.br
-macmagazine.com.br##.wp-block-group-is-layout-constrained.is-layout-constrained.is-style-cnvs-block-bg-light.wp-block-group
-macmagazine.com.br##.bannersquare-mobile
-
-! 2024-04-29 https://appleinsider.com
-appleinsider.com##.visible-sm.visible-xs
-
-! 2024-05-01 https://whiplash.net
-whiplash.net##span.adInline
-whiplash.net##.pulse
-whiplash.net##.backgroundVermelho.cornerRibbonDir
-whiplash.net##.backgroundVerdeEscuro.cornerRibbonEsq
-whiplash.net##div.separadorComTexto:nth-of-type(1)
-
-
-abertoatedemadrugada.com###HTML15
-abertoatedemadrugada.com###rotatorAADM
-abertoatedemadrugada.com##[href="https://itjobs.pt/"]
-acores.rtp.pt##.pub
-acorianooriental.pt##.d-flex.p-lg-3.p-xs-0.w-100
-acorianooriental.pt##.d-xl-block.d-lg-block.d-md-none.d-xs-none.w-100
-acorianooriental.pt##.m-auto.d-table.pub_right.pub
-acorianooriental.pt##.p-xs-0.d-xl-flex.d-lg-flex.d-md-flex.d-xs-flex.w-100
-acorianooriental.pt##.social-media-icons
-allroundreview.com##.leaderBoard
-alternet.org###kindest-frame
-amp.reddit.com##.AppSelectorModal__body
-amp.reddit.com##.upsell_banner
-android-developers.googleblog.com##.icon-sidebar
-androidauthority.com##.--6b.--4b.--5b
-androidauthority.com##.--ad.--Zi
-androidauthority.com##.--Ib.--6f
-androidauthority.com##.--Nc > p
-androidauthority.com##.--xc.--uc
-androidauthority.com##.-_-Bd.-_-Ad.ad-banner
-androidauthority.com##.-_-mc.-_-lc.ad-banner
-androidauthority.com##._cc._-b._bc
-androidauthority.com##._gd._Wb._fd
-androidauthority.com##main > div:last-child > div > .topLeaderboard:upward(1)
-androidcentral.com###expanding-articles
-androidcentral.com##.dfp-leaderboard-container
-androidcentral.com##.exit-intent__background.exit-intent
-androidcentral.com##.read-more-container
-androidcentral.com##.related-articles-wrap
-androidguys.com##.td_block_template_4.tdi_12_76c.td-a-rec-id-header.td-a-rec
-apkmirror.com##+js(aeld, load, (event))
-apkmirror.com##.adslot.adsbygoogle
-apkmirror.com##.ains-apkm_developers_injected_1.ains-6.ains
-apkmirror.com##.ains-apkm_dev_page_bottom.ains-9.ains
-apkmirror.com##.ains-apkm_dev_page_top.ains-10.ains
-apkmirror.com##.ains-apkm_outbrain_ad.ains-51.ains
-apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-26.ains
-apkmirror.com##.ains-apkm_release_page_middle.ains-25.ains
-apkmirror.com##.ains-apkm_release_page_top.ains-24.ains
-apkmirror.com##.google-ad-leaderboard.gooWidget
-apkmirror.com##.gooWidget
-apkmirror.com##.listWidget > div.appRow
-apkmirror.com##.membership-text.advertisement-text
-app.raindrop.io##.upgrade-R9fx
-appadvice.com##.aa_padding-tb--20.aa_text--center
-audiobookbay.fi###rsidebar > ul > li > div
-audiobookbay.fi###rsidebar > ul > li:nth-of-type(2) > ul > li
-audiobookbay.fi###rsidebar > ul > li:nth-of-type(4) > h2
-audiobookbay.fi###rsidebar > ul > li:nth-of-type(5)
-audiobookbay.fi###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.fi##.yellow
-audiobookbay.fi##li.social-button
-audiobookbay.fi##li:nth-of-type(4) > div:nth-of-type(2)
-audiobookbay.fi##li:nth-of-type(6) > div
-audiobookbay.fi##tr:nth-of-type(32)
-audiobookbay.fi##tr:nth-of-type(68)
-audiobookbay.fi##[src="/images/dire.gif"]
-audiobookbay.is###rsidebar > ul > li:nth-of-type(4) > h2
-audiobookbay.is###rsidebar > ul > li:nth-of-type(5)
-audiobookbay.is###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.is##.yellow
-audiobookbay.is##li.social-button
-audiobookbay.is##li:nth-of-type(4) > div:nth-of-type(1)
-audiobookbay.is##li:nth-of-type(4) > div:nth-of-type(2)
-audiobookbay.is##li:nth-of-type(6) > div
-audiobookbay.is##rsidebar > ul > li:nth-of-type(2) > ul > li
-audiobookbay.is##tr:nth-of-type(32)
-audiobookbay.is##tr:nth-of-type(68)
-audiobookbay.is##[src="/images/dire.gif"]
-audiobookbay.is##[src="/images/dire.gif"]
-audiobookbay.li###rsidebar > ul > li > div
-audiobookbay.li###rsidebar > ul > li > h2
-audiobookbay.li###rsidebar > ul > li:nth-of-type(2) > ul > li
-audiobookbay.li###rsidebar > ul > li:nth-of-type(4)
-audiobookbay.li###rsidebar > ul > li:nth-of-type(5) > h2
-audiobookbay.li##.yellow
-audiobookbay.li##li > ul > li > div
-audiobookbay.li##li.social-button
-audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(1)
-audiobookbay.li##tr:nth-of-type(29) > td:nth-of-type(2)
-audiobookbay.li##[src="/images/bin.jpg"]
-audiobookbay.li##[src="/images/d-t.gif"]
-audiobookbay.li##[src="/images/dire.gif"]
-audiobookbay.li##[src="/images/fr.jpg"]
-audiobookbay.li##[src="https://audiobookbay.li/images/bz.jpg"]
-audiobookbay.lu###rsidebar > ul > li:nth-of-type(2) > ul > li
-audiobookbay.lu###rsidebar > ul > li:nth-of-type(4) > h2
-audiobookbay.lu###rsidebar > ul > li:nth-of-type(5)
-audiobookbay.lu###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.lu##.yellow
-audiobookbay.lu##li.social-button
-audiobookbay.lu##li:nth-of-type(4) > div:nth-of-type(1)
-audiobookbay.lu##li:nth-of-type(4) > div:nth-of-type(2)
-audiobookbay.lu##li:nth-of-type(6) > div
-audiobookbay.lu##tr:nth-of-type(32)
-audiobookbay.lu##tr:nth-of-type(68)
-audiobookbay.lu##[src="/images/dire.gif"]
-audiobookbay.me###rsidebar > ul > li:nth-of-type(2) > ul > li
-audiobookbay.me###rsidebar > ul > li:nth-of-type(4) > h2
-audiobookbay.me###rsidebar > ul > li:nth-of-type(5)
-audiobookbay.me###rsidebar > ul > li:nth-of-type(6) > h2
-audiobookbay.me##.yellow
-audiobookbay.me##li.social-button
-audiobookbay.me##li:nth-of-type(4) > div:nth-of-type(2)
-audiobookbay.me##li:nth-of-type(6) > div
-audiobookbay.me##tr:nth-of-type(32)
-audiobookbay.me##tr:nth-of-type(68)
-audiobookbay.me##[src="/images/dire.gif"]
-audiobookbay.net###rsidebar>ul>li:nth-of-type(2)>ul>li
-audiobookbay.net###rsidebar>ul>li:nth-of-type(4)
-audiobookbay.net###rsidebar>ul>li:nth-of-type(5)>h2
-audiobookbay.net###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbay.net##.leftPicCustomWrap
-audiobookbay.net##.yellow
-audiobookbay.net##li.social-button
-audiobookbay.net##tr:nth-of-type(26)>td:nth-of-type(1)
-audiobookbay.net##tr:nth-of-type(26)>td:nth-of-type(2)
-audiobookbay.net##tr:nth-of-type(27)>td:nth-of-type(1)
-audiobookbay.net##tr:nth-of-type(27)>td:nth-of-type(2)
-audiobookbay.net##tr:nth-of-type(41)
-audiobookbay.net##[src="/images/dir.gif"]
-audiobookbay.nl###rsidebar>ul>li:nth-of-type(2)>ul>li
-audiobookbay.nl###rsidebar>ul>li:nth-of-type(4)
-audiobookbay.nl###rsidebar>ul>li:nth-of-type(5)>h2
-audiobookbay.nl###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbay.nl##.leftPicCustomWrap
-audiobookbay.nl##.ski
-audiobookbay.nl##.yellow
-audiobookbay.nl##li.social-button
-audiobookbay.se###rsidebar > ul > li:nth-of-type(4)
-audiobookbay.se###rsidebar > ul > li:nth-of-type(5)
-audiobookbay.se##.ski
-audiobookbay.se##.yellow
-audiobookbay.se##li.social-button
-audiobookbay.se##tr:nth-of-type(27)
-audiobookbay.se##tr:nth-of-type(33)
-audiobookbay.se##tr:nth-of-type(37)
-audiobookbay.se##tr:nth-of-type(52)
-audiobookbay.se##[src="/images/d-t.gif"]
-audiobookbay.ws###rsidebar>ul>li:nth-of-type(2)>ul>li
-audiobookbay.ws###rsidebar>ul>li:nth-of-type(4)
-audiobookbay.ws###rsidebar>ul>li:nth-of-type(5)>h2
-audiobookbay.ws###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbay.ws##.ski
-audiobookbay.ws##.yellow
-audiobookbay.ws##li.social-button
-audiobookbayabb.com###rsidebar>ul>li:nth-of-type(2)>ul>li
-audiobookbayabb.com###rsidebar>ul>li:nth-of-type(4)
-audiobookbayabb.com###rsidebar>ul>li:nth-of-type(5)>h2
-audiobookbayabb.com###rsidebar>ul>li:nth-of-type(6)>h2
-audiobookbayabb.com##.yellow
-audiobookbayabb.com##li:nth-of-type(2)>ul>li>div
-audiobookbayabb.com##li:nth-of-type(5)>div
-audiobookbayabb.com##li:nth-of-type(6)>div
-audiobookbayabb.com##tr:nth-of-type(29)>td:nth-of-type(1)
-audiobookbayabb.com##tr:nth-of-type(29)>td:nth-of-type(2)
-axios.com##.Modal_ctaContainer__kHYHl
-bestfreestreaming.org##.d-block > .img-fluid
-bestfreestreaming.org##.rounded-0.user-select-none.end-0.top-0.position-absolute.bg-opacity-75.bg-black.badge.text-light.text-decoration-none
-bing.com##.feedback-binded.cbtn
-blog.avast.com###Combined-Shape
-blogdoiphone.com###ai_widget-5
-blogdoiphone.com###ai_widget-7
-blogdoiphone.com##.code-block-11.code-block
-blogdoiphone.com##.code-block-22.code-block
-blogdoiphone.com##.code-block-24.code-block
-bloodyelbow.com##.remixd-wrapper
-boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > .i-amphtml-fill-content
-boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
-bol.pt###Barra_ctl00_ctl00_lblPublicidade
-bookaudiobooks.com##.ai_widget.widget
-caixadirectaonline.cgd.pt###bit-notification-bar-iframe
-caixadirectaonline.cgd.pt###modal_shadow_pzero
-caixadirectaonline.cgd.pt###zeroHPModalPanel
-caixadirectaonline.cgd.pt###zeroHPModalPanel2
-canaltech.com.br###topo-canaltech
-cgd.pt###bit-notification-bar
-cgd.pt###bit-notification-bar-spacer
-chordify.net###content > div.d1x5r91u > div
-chordify.net###content > div.d1x5r91u > div > .a1p2y5ib > .f1gbqqnm
-cmjornal.pt##.inContent
-cmjornal.pt##.subscrever_whatsapp
-cnbc.com##.BoxRail-styles-makeit-ad--1rgf0.BoxRail-styles-makeit-container-right--3SfNY
-cnet.com##.c-head_disclosure
-cnet.com##.fixed.isCenter.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
-cnnportugal.iol.pt###popover
-cnnportugal.iol.pt##.bell
-consultaremedios.com.br##.ads-label-class-div-gpt-ad-1606158179790-0.advertising-label
-correiodosacores.pt##.edn_socialPrintWrapper
-custojusto.pt##.impresa.container
-custojusto.pt##[class*="home_sas_"]
-custojusto.pt##[class*="listItemsCards_sas-container"]
-custojusto.pt##[class*="vi_sas-container__"]
-dailywire.com##.wisepops-root
-darkreading.com##.Ad_pos_300_1v_article.Ad
-darkreading.com##.ArticleBase-AdTop.Ad
-desksoft.com##center
-desksoft.com##td:nth-of-type(6)
-destinoseguro.azores.gov.pt###accessibility-links
-destinoseguro.azores.gov.pt###glt-translate-trigger
-diariodalagoa.pt##.lbl-pub
-diariodegoias.com.br##.prop-container
-direstraitsblog.com###text-4
-direstraitsblog.com##.bd-fb-likebox.widget-main.widget
-discover.hubpages.com##.mm-component-stack--is-stacked.m-component-stack.nocontent.m-outbrain
-dn.pt##.d-lg-inline-block.d-none.pub-wrapper
-dn.pt##.post-body > div > .pub-wrapper > div
-dn.pt##.sk-pub
-dn.pt##.sk-showing.sk-notification-dialog
-dn.pt##.t-s2-col-3
-dnoticias.pt##.pub--wrapper
-doutorfinancas.pt###footer
-doutorfinancas.pt##.align-items-start.d-lg-flex.d-none.col-1
-doutorfinancas.pt##.py-4.background-partner-kk.lazy.background--image-cover.bg-custom_sticky.blog-footer-bar
-e-konomista.pt##.wp-block-adc-post-header-sponsor
-eco.sapo.pt##div.amp-wp-content:nth-of-type(2)
-edition.cnn.com##.CRAB_4.ob-classic-layout.ob-widget > .ob-first.ob-widget-section > .ob-widget-header
-edition.cnn.com##.CRAB_4.ob-classic-layout.ob-widget > .ob_what
-emprego.sapo.pt##.pub-inline
-en.news.xiaomi-miui.gr##div[class^="google_responsive"]
-en.news.xiaomi-miui.gr##div[id^="ai_widget"]
-en.news.xiaomi-miui.gr##div[id^="block"]
-en.wikipedia.org###siteNotice
-eu.usatoday.com##.secondary > .content-well
-eu.usatoday.com##.secondary > .content-well > .module-slot
-euronews.com##.o-article__aside__content-1-magazine.o-article__aside__content-1.o-article__aside__content
-express.co.uk###web-strip-banner
-express.co.uk##div.text-description:nth-of-type(2) > p:nth-of-type(4)
-express.co.uk##p:nth-of-type(10)
-express.co.uk##p:nth-of-type(8)
-express.co.uk##p:nth-of-type(9)
-expresso.pt##.container-unique.container
-expresso.pt##.disqus-comment-count
-expresso.pt##.navigate-to-comments.comment-link
-expresso.pt##.shareTools2020Wrapper
-facebook.com###fbcmfToggle
-facebook.com##div[role="complementary"] > div[class] > div[class] > div[class] span > div > div:not([aria-label]):not([data-visualcompletion]):has(> div[class] > div[class] div[class] > a[href^="https://l."][href*="facebook.com/l.php?u="][target="_blank"])
+advocate.com##.newsletter-show.newsletter-overlay
+advocate.com##.share-panel.widget__shares
+androidauthority.com##._--_-___6h
+androidauthority.com##._--_-___9h
+androidauthority.com##._--_-___ji._--_-___wp
+bing.com##.feedback-binded.sb_feedback_button
+bloomberg.com##div.rightRail_stickySegment__fqwBi:nth-of-type(1)
+bostonherald.com##.article-footer
+charlotteobserver.com##.trinity-player-iframe-wrapper.trinityAudioPlaceholder
+cmjornal.pt##.container_book_push
+custojusto.pt##.home_top-container__KHisg
+custojusto.pt##.replyModal_campaigns__ajASC
+custojusto.pt###div-WEB_billboard
+custojusto.pt##li.vi_stat__lSxE7:nth-of-type(6)
+deco.proteste.pt##.padding--bottom-medium.padding--top-medium.main-footer__newsletter
+deco.proteste.pt##.skin
+deviantart.com##._2Ee-T._1ionn._3U8hI._3272G
+deviantart.com##._2Ee-T.v0vmd._3U8hI._3272G
+diarioleiria.pt##.banner-publicidade
+diarioleiria.pt##.dc-side-pub.full-width.dc-pub.ct-div-block
+eurogamer.pt##.leaderboard_container.advert_container
+eurogamer.pt##.low_leaderboard_container.advert_container
+eurogamer.pt##.sidebar
 facebook.com##footer
-facebook.com##[aria-label*="Marketplace"] object > a[href^="/ads/"] > span:not(:empty):upward(11)
-feedly.com##.fixed-bar
-feedreader.com###feedback
-filecr.com##+js(abort-on-property-write, advanced_ads_check_adblocker)
-filecr.com##.top-header-ad
-fivethirtyeight.com##.a9-sidebar-ad.widget
-flash.pt###mrec1
-flash.pt###mrec2
-flash.pt##.pubInContentMargin
-forbes.com###consent_blackbar
-forbes.com##.desktop.openWeb-commenting
-forbes.com##.openWeb-wrapper
-forbes.com##.trustarc-background.trustarc-banner-background.trustarc-banner-wrapper
-forbes.com##fbs-embedly
-fortune.com##div.gvbiof.sc-6c9f60ea-7
-fortune.com##div.hIZRmW.sc-clIzBv
-forum.mobilism.org##tr.row1:nth-of-type(7) > td:nth-of-type(2) > table > tbody > tr > td > .postbody
-foxnews.com##.sidebar-columns > div.vendor-unit:nth-of-type(3)
-foxnews.com##.speechkit-wrapper
-freemactorrent.com###bloc-title-safe
-gazettelive.co.uk##.topbox-cls-placeholder
-ghpage.com##.cXZkom.styles__Prompt-sc-17zujcx-0.aw-wpn-prompt
-givemesport.com###sn_gg_ad_wrapper
-google.com##.uU7dJb
-gsmarena.com##.pt-10.align-center.justify-center.flex-column.d-flex
-gsmarena.com##div.module:nth-of-type(4) > .section-heading
-gsmarena.com##div.module:nth-of-type(4) > div
-hellgatenyc.com##.wp-embed-responsive.PostContent_wrapper__oih1Z > div
-holofote.sapo.pt##.sticky-footer
-howtotwitch.com###ai_widget-2
-hrportugal.sapo.pt###jvc-7
-hrportugal.sapo.pt###jvc-8
-hrportugal.sapo.pt##.sticky-active.wrapper-sticky
-hrportugal.sapo.pt##.widget_custom_html.widget.primary-sidebar-widget.w-nt.h-ni.widget_text
-hrportugal.sapo.pt##.widget_jvc.widget.primary-sidebar-widget.w-nt.w-bg-f3f6f6.w-bg.h-ni
-hulldailymail.co.uk##.topbox-cls-placeholder
-ibtimes.com##.wf2-bg-dark.grwf2_backdrop
-iclarified.com##.ad_break2_box_ad1
-iclarified.com##.ad_break2_container
-iclarified.com##.ad_break_container
-iclarified.com##.header_ad1
-iclarified.com##div.adthrive-placeholder-content
-idealista.pt###block-idealista-news-smart-format-roba-block
-idealista.pt###publi_16392
-idealista.pt##.sas-banner
-idevicecentral.com##.wp-block-group-is-layout-constrained.wp-container-core-group-layout-28.is-layout-constrained.has-background.has-popcorn-element-background-background-color.popcorn-box-shadow.wp-block-group
-idownloadblog.com###AdThrive_Content_2_desktop
-idownloadblog.com###AdThrive_Sidebar_1_desktop
-ilecr.com##+js(abort-on-property-read, mdpDeBlocker)
-imore.com###affiliate-disclaimer
-imore.com###expanding-articles
-imore.com###sidebar-popular-bottom
-imore.com###sidebar-popular-top
-imore.com###sidebar-top
-imore.com##.ad-unit.in-article
-imore.com##.col-2of3\@tablet.col-3of3.article-footer--taboola.article-footer
-imore.com##.dfp-leaderboard-container
-imore.com##.exit-intent__background.exit-intent
-imore.com##.future__jwplayer--carousel
-imore.com##.jw-carousel
-imore.com##.related-articles-wrap
-imore.com##.van_taboola
-imore.com##.vid-present.van_vid_carousel
-independent.co.uk##.ePjoNe.sc-uo1whf-0.dDZyIt.sc-1pfx6hk-0
-jalopnik.com##.js_more-below-post.hNjGzN.sc-1or3yyu-5
-jewishjournal.com##.stretch_row.tdc-row
-jn.pt##.sk-showing.sk-notification-dialog
-jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_68.vc_column > .wpb_wrapper
-jornalacores9.pt##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_91.vc_column
-jornalacores9.pt##.td_block_template_5.tdi_1.td-a-rec-id-header.td-a-rec
-jornalacores9.pt##.td_block_template_5.tdi_31.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap > div > .td_spot_img_all
-jornalacores9.pt##.td_block_template_5.tdi_8.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap > div > .td_spot_img_all
-letelegramme.fr##.tlg-block-small-padding.tlg-text-center.tlg-layout-block
-letelegramme.fr##.tlg-sticky-mobile.tlg-sticky.tlg-hidden-sm.tlg-hidden-xs.tlg-text-center.tlg-layout-block > .tlg-ad-container
-lifehacker.com##.pt-8.mt-8.top-0
-livenewsmag.com##.g1-hb-shadow-off.g1-hb-sticky-off.g1-hb-boxed.g1-hb-row-2.g1-hb-row-b.g1-hb-row-normal.g1-hb-row.g1-row-layout-page.g1-row
-livenewsmag.com##.g1-row-background-media
-livenewsmag.com##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter
-livenewsmag.com##.g1-teaser-arrow
-livenewsmag.com##.g1-teaser-next.g1-teaser
-livenewsmag.com##.g1-teaser-prev.g1-teaser
-livenewsmag.com##.g1-teaser-prev.g1-teaser > .g1-teaser-arrow
-livenewsmag.com##.mashsb-buttons
-lovebscott.com##.sf-sidebar-wrapper
-macosicons.com##.gitHub-sponsor
-macrumors.com##.abovebanner--Vj-emp0H
-macstories.net##.post-tags
-mail.google.com##.modal__overlay
-mail.google.com##.ZY
-meaww.com##.page-content-wrapper.header-margin.category-container.container > div:nth-of-type(3)
-msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-1
-msn.com##.feedback_link_default-DS-EntryPoint1-1.button-DS-EntryPoint1-3
-msn.com##.riverSections-DS-EntryPoint1-1 > div:nth-of-type(1) > div:nth-of-type(3)
-msn.com##msn-windows-footer
-msn.com##[class^="articlePage_eoabContent"]
-my.1password.com##.trial-banner--index_ow9MP
-myfitnesspal.com##.css-1hxzbui.MuiBox-root
-myfitnesspal.com##.css-nv096v.MuiBox-root
-mylondon.news##.secondary.related-column
-mylondon.news##.topbox-cls-placeholder
-nanoreview.net###float-sb-right
-nanoreview.net##div.nad_only_desktop
-natesilver.net##.frontend-components-SubscribePrompt-module__background--WF3cB
-natesilver.net##.frontend-components-SubscribePrompt-module__subscribeDialog--Yce7g.pc-reset.pc-alignItems-center.pc-flexDirection-column.pc-display-flex.pencraft
-nationalreview.com##.paywall-rollup__content
-net-empregos.com##.col-md-12.col-lg-4.col-xl-4
-net-empregos.com##div.my-1:nth-of-type(14)
-net-empregos.com##div.my-1:nth-of-type(19)
-net-empregos.com##div.my-1:nth-of-type(4)
-net-empregos.com##div.my-1:nth-of-type(9)
-news.google.com##.ghN9W
-news.yahoo.com###sda-MON
-noticiasaominuto.com###casa-popout-section
-noticiasaominuto.com##.escolha-consumidor-badge-content
-noticiasaominuto.com##.ffy-link-container
-noticiasaominuto.com##.news-social-bottom.row
-noticiasaominuto.com##.v-margin-15.pub-container-block.col-xs-12.col-sm-6.col-md-6.col-lg-4
-noticiasaominuto.com##div.hidden-xs > .margin-top-15.tap.col-xs-12.col-sm-6.col-md-6.col-lg-4
-noticiasaominuto.com##div.hidden-xs > .pais.col-xs-12.col-sm-6.col-md-6.col-lg-4
-noticiasaominuto.com##div.hidden-xs > div.lifestyle.col-xs-12.col-sm-6.col-md-6.col-lg-4
-noticiasaominuto.com##div.hidden-xs > div.mundo.col-xs-12.col-sm-6.col-md-6.col-lg-4
-noticiasaominuto.com##div.pub-container-block.hidden-xs.hidden-sm.col-md-6.col-lg-4
-noticiasetecnologia.com##.container-fluid.site-header
-nytimes.com###app>div>div[class^="css-"]:style(position:static!important)
-nytimes.com###app>div>div[class^="css-"]>div[aria-hidden="true"]+div[class^="css-"]
-nytimes.com###gateway-content
-oantagonista.uol.com.br###aux-bar > .aux-bar
-oantagonista.uol.com.br##.entry-content > .aux-bar
-observador.pt##.obs-ad-placeholder-manchete.fbg-container.obs-ad-placeholder
-observador.pt##.obs-cta-size-1-short.obs-cta > .content
-observador.pt##.obs-cta-size-1-short.obs-cta > .content > .obs-button
-observador.pt##.tinkerbell.alerts-popup
-olx.pt###laq-7fzwEE6mKNL7 > .laq-survey
-ominho.pt###wpgtr_stickyads_textcss_container
-osxdaily.com##.ml-form-align-center
-phandroid.com##.phand-article-top
-phonearena.com##.card-default.card.no-counter.announcement-widget-item
-piunikaweb.com##.gray-white-bg.gray-darker.facebook-comments
-plasticosydecibelios.com##.code-block-1.code-block
-poligrafo.sapo.pt###features-promotion
-poligrafo.sapo.pt##.article-share.\].\[
-poligrafo.sapo.pt##.content > .article-inline-ads-2020.\].align-center.vertical-space.\[ > .special-ctn
-poligrafo.sapo.pt##.fugly-ads.\].align-center.vertical-space.ink-grid.\[
-poligrafo.sapo.pt##.ifcn-badge.\].top-space.\[
-poligrafo.sapo.pt##.special-ctn
-politifact.com##.m-sharing
-portal.azores.gov.pt##.no-print.portal-portlet-socialShare
-portal.azores.gov.pt##.no-print.portlet-print--content-wrap
-portal.azores.gov.pt##.portal-portlet-user-dash--wrap
-portal.azores.gov.pt##.portal-portlet-youAreHere
-portal.azores.gov.pt##.template-normal--scroll-image
-pplware.sapo.pt###\#sidepub
-pplware.sapo.pt##.group.pad > div > .group.related-posts
-pplware.sapo.pt##.post.post-thumbnail
-prociv.azores.gov.pt##.st-animated.st-inline-share-buttons.st-has-labels.st-lang-pt.st-left.hide-for-print.sharethis-inline-share-buttons
-projects.fivethirtyeight.com###ad
-pt.wikipedia.org##.cn-wle_2023_pt
-pt.xhamster.com##.modal-886ab
-publico.pt###piano--ticker
-publico.pt###publico-ticker
-publico.pt###ticker-paywall-geneint2
-publico.pt##.ad-slot--double.ad-slot
-publico.pt##.ad-slot--sticky.ad-slot
-publico.pt##.datawall-warning.site-message--datawall.site-message--notice.site-message
-publico.pt##.incontent-hidden.ad-slot--in-content.ad-slot
-publico.pt##.pubtxt.pubHorz
-publico.pt##.rmp-medium.rmp-chrome.rmp-no-hint.rmp-no-loading-spin.rmp-no-central-play.rmp-ad-outstream.rmp-container-fade-in.rmp-color-button.rmp-container.inContent
-publico.pt##.show-for-large.ad-slot--double.ad-slot
-publico.pt##.social-tools
-publico.pt##.stack-social-tools.stack--learn-more.stack
-publico.pt##.trinityAudioPlaceholder
-radioilheu.pt##.single-post-like
-radioilheu.pt##.single-post-share-big-inner
-rapidsave.com##.about.card.col-md-offset-2.col-md-8
-rapidsave.com##.alert-info.alert.col-md-offset-2.col-md-8
-rapidsave.com##.container > center
-rapidsave.com##.no-mrg.navbar-default.navbar
-rapidsave.com##footer
-rapidsave.com##footer > p
-readwrite.com##.post-author-profile.col-md-1
-record.pt###texto_socialShare
-reddit.com###header-bottom-right > span.separator:nth-of-type(4)
-reddit.com###NREPause
-reddit.com###RESShortcutsEditContainer
-reddit.com###sr-more-link
-reddit.com##+js(aeld, touchmove)
-reddit.com##.access-required.nohavemail
-reddit.com##.bottom-bar, .XPromoBottomBar
-reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT._3hna43Sh0DTnoV7v2NNc2r
-reddit.com##.login-required.add.active.option
-reddit.com##.NavFrame > .m-consolidate.XPromoBottomBar
-reddit.com##.premium-banner
-reddit.com##.res-floater-list .nohavemail
-reddit.com##.useApp,.TopNav__promoButton
-reddit.com##.XPromoInFeed
-reddit.com##.XPromoPopup
-reddit.com##.XPromoPopupRpl
-reddit.com##.XPromoPopupRplNew
-reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-reddit.com##._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
-reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-reddit.com##body:style(pointer-events:auto!important;)
-reddit.com##xpromo-app-selector
-reddit.com##xpromo-new-app-selector
-redditsave.com###faq
-redditsave.com##.alert-info.alert.col-md-offset-2.col-md-8
-redditsave.com##.no-mrg.navbar-default.navbar
-redditsave.com##footer
-removepaywall.com##.dpKljD.sc-75e21d3c-8
-removepaywall.com##.ivmcUg.sc-de2ca277-12
-reuters.com##.leaderboard__slot__1_SQv > div > .ad-slot__container__FEnoz
-rtp.pt##.hidden-print.bg-medium-gray
-rtp.pt##.text-right.margin-top-20 h6
-sabado.pt##.contador
-samlover.com##.widget_text.widget_block.inner-padding.widget
-sammobile.com###venatus-hybrid-banner
-sammobile.com##.affiliate-disclosure
-sciencebasedmedicine.org###themegrill_social_icons-2
-sciencebasedmedicine.org##div.twitter-share
-sendbig.com##.container-fluid.footer
-sendbig.com##.footer-copyright-row.row
-sicnoticias.pt##.sas-assinaturas.ad-container
-signulous.com##.dashboard__news
-snopes.com###offer-0-OxWuv
-snopes.com##.smg-zone-group-sidebar-single.smg-zone-group > .smg-zone-widget-composer.smg-zone-widget > .composer
-snopes.com##.smg-zone-widget-composer.smg-zone-widget
-snopes.com##.tp-container-inner
-sol.sapo.pt###rc > center:nth-of-type(1) > div:nth-of-type(1)
-sol.sapo.pt###rc > center:nth-of-type(2)
-sol.sapo.pt##center:nth-of-type(1) > div:nth-of-type(2)
-solidtorrents.to##.view-box
-supercasa.pt###SearchPage-HorizontalBanner-Imobinvest_B
-sybron.org##.pubtxt.pubHorz
-tabs.ultimate-guitar.com##.FW01q
-tabs.ultimate-guitar.com##.iWe5J
-techcrunch.com##.piano-ribbon-container
-techdirt.com##.scw-wrap
-techdirt.com##section:nth-of-type(3) > div:nth-of-type(2)
-techradar.com###sidebar-popular-bottom
-techradar.com##.infinite-container
-techtudo.com.br##.ads
-techviral.net##.td-header-rec-wrap
-techviral.net##div.code-block-h-250px.code-block-center
-tecnoblog.net###ad-side-small-1
-tek.sapo.pt##.inline-features-promotion.\].vertical-space.\[
-tek.sapo.pt##.special-ctn
-tek.sapo.pt##.\].hide-medium.hide-small.hide-tiny.\[ > .\].\[ > .special-ctn > .pub-2020
-tenforums.com##.chill
-theatlantic.com##.Leaderboard_placeholder__vaqr1.Leaderboard_root__nPXmd.GptAd_root__2eqVh
-theatlantic.com##.qc-cmp2-container
-theaudiobookbay.me###rsidebar > ul > li > div
-theaudiobookbay.me###rsidebar > ul > li:nth-of-type(2) > ul > li
-theaudiobookbay.me###rsidebar > ul > li:nth-of-type(4) > h2
-theaudiobookbay.me###rsidebar > ul > li:nth-of-type(5)
-theaudiobookbay.me###rsidebar > ul > li:nth-of-type(6) > h2
-theaudiobookbay.me##.yellow
-theaudiobookbay.me##li.social-button
-theaudiobookbay.me##li:nth-of-type(4) > div:nth-of-type(2)
-theaudiobookbay.me##li:nth-of-type(6) > div
-theaudiobookbay.me##tr:nth-of-type(27) > td:nth-of-type(1)
-theaudiobookbay.me##tr:nth-of-type(27) > td:nth-of-type(2)
-theaudiobookbay.me##tr:nth-of-type(32)
-theaudiobookbay.me##tr:nth-of-type(68)
-theaudiobookbay.me##[src="/images/dire.gif"]
-theaudiobookbay.net###rsidebar > ul > li > div
-theaudiobookbay.net###rsidebar > ul > li:nth-of-type(2)
-theaudiobookbay.net###rsidebar > ul > li:nth-of-type(4) > h2
-theaudiobookbay.net###rsidebar > ul > li:nth-of-type(5)
-theaudiobookbay.net###rsidebar > ul > li:nth-of-type(6) > h2
-theaudiobookbay.net##.yellow
-theaudiobookbay.net##li.social-button
-theaudiobookbay.net##li:nth-of-type(4) > div:nth-of-type(2)
-theaudiobookbay.net##li:nth-of-type(6) > div
-theaudiobookbay.net##rsidebar > ul > li:nth-of-type(2) > ul > li
-theaudiobookbay.net##tr:nth-of-type(32)
-theaudiobookbay.net##tr:nth-of-type(68)
-theaudiobookbay.net##[src="/images/d-t.gif"]
-theaudiobookbay.net##[src="/images/dire.gif"]
-theaudiobookbay.net##[src="/images/dire.gif"]
-theaudiobookbay.se###rsidebar > ul > li > div
-theaudiobookbay.se###rsidebar > ul > li:nth-of-type(2)
-theaudiobookbay.se###rsidebar > ul > li:nth-of-type(4) > h2
-theaudiobookbay.se###rsidebar > ul > li:nth-of-type(5)
-theaudiobookbay.se###rsidebar > ul > li:nth-of-type(6) > h2
-theaudiobookbay.se##.yellow
-theaudiobookbay.se##li.social-button
-theaudiobookbay.se##li:nth-of-type(4) > div:nth-of-type(2)
-theaudiobookbay.se##li:nth-of-type(6) > div
-theaudiobookbay.se##rsidebar > ul > li:nth-of-type(2) > ul > li
-theaudiobookbay.se##tr:nth-of-type(32)
-theaudiobookbay.se##tr:nth-of-type(68)
-theaudiobookbay.se##[src="/images/d-t.gif"]
-theaudiobookbay.se##[src="/images/dire.gif"]
-theaudiobookbay.se##[src="/images/dire.gif"]
-theblast.com##.kargoad-theblast_desktop_rightrail
-theblast.com##.kargoad-theblast_desktop_rightrail2
-thedailybeast.com##.GoogleReadaloud
-thehackernews.com##div.cf.pixpix
-thehackernews.com##div.okaybob.clear.okay_two
-thehackernews.com##div.okaybob.clear.okay_two:nth-of-type(2)
-thehill.com##.ns-block-embed-anvato
-thelist.com###primis-container
-theness.com##p:nth-of-type(2)
-theregister.com##.sharing_box
-thesun.co.uk###list-11
-theverge.com###newsletter-signup-short-form
-theverge.com##.lg\:flex-1.lg\:flex-col.lg\:flex.text-white.z-0.hidden.max-h-\[6000px\].max-w-\[300px\].duet--layout--rail > div.flex-auto > .lg\:block.hidden.mx-auto
-theverge.com##.lg\:flex-1.lg\:flex-col.lg\:flex.text-white.z-0.hidden.max-h-\[6000px\].max-w-\[300px\].duet--layout--rail > div.flex-auto:nth-of-type(1)
-theverge.com##.md\:px-34.px-20 > .lg\:block.hidden.mx-auto
-theverge.com##.outbrain_article.dfp_ad--outbrain.dfp_ad--full-width
-theverge.com##.remixd-wrapper
-tomsguide.com##.exit-intent__background.exit-intent
-tsf.pt##.pub-wrapper
-tsf.pt##.sk-pub
-tuasaude.com##.ts-mrec-artigo.desktop-only.mrec-float-right.mrec-container
-tuasaude.com##.tuasaude-br-article-body-1.mrec-container
-tuasaude.com##.tuasaude-br-article-body-2.mrec-container
-tuasaude.com##.tuasaude-br-article-body-3.mrec-container
-tuasaude.com##.tuasaude-en-article-body-2.mrec-container
-tugatech.com.pt###pb-topo2
-tvi.iol.pt##.hidemobile
-twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
-twitter.com##aside[aria-label="Assine o Premium"]:upward(1)
-twitter.com##aside[aria-label="Subscribe to Premium"]:upward(1)
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(3)
-twitter.com##[aria-label="Get Verified"] 
-unsplash.com##.lSBnl.bsjaC.aOKtF
-uol.com.br##.up-floating > div
-vagasacores.pt##.made-with-softr
-vagasacores.pt##a.iubenda-embed.iubenda-noiframe.iubenda-white
-vanityfair.com##.modal-overlay
-vanityfair.com##.paywall-modal-container
-viral.sapo.pt###page-16424 > .my-4.px-0.container
-viral.sapo.pt##.mb-2.mt-n4
-viral.sapo.pt##.pl-md-3.pl-sm-0.pr-0.col-md-auto.col-pub.entry-content
-visao.sapo.pt##.show.fade.modal-backdrop
-visao.sapo.pt##.sticky-footer
-visao.sapo.pt##.webPushIframe
-wccftech.com##body > .d-md-block.d-none
-webnovelpub.com##.left-panel > .xneJbxmQ.ad-sticky.bSGR_lxI
-webnovelpub.com##.right-panel > .xneJbxmQ.ad-sticky.bSGR_lxI
-webnovelpub.com##div.container
-webnovelpub.com##[data-pw-desk="leaderboard_btf"]:upward(div)
-windowsreport.com###sfbnri
-wired.com###bookmark
-wired.com##.desktop.fDfnKl.PaywallBarWrapper-mFAVR
-wired.com##.hr-top.headroom.ad__slot--post_nav.justify-c.align-m.flex-box.bg-gray-1.brad-top.rad
-wired.com##.kgXyAM.ActionBarWrapperContent-lasBkU
-wired.com##.viewport-monitor-anchor.zaHmJ.ActionBarWrapper-dhxmQh
-wonderwall.com##.news-content-footer
-wonderwall.com##.right-aside-wrapper.sidebar-wrapper
-worten.pt##.w-margin-top.w-section-content__box.w-section__html.w-section__wrapper__content
-wrestling.pt##.pubartigo
-wrestling.pt##.pubheader
-wsj.com###cx-what-to-read-next
+foxnews.com##.article-meta-lower.article-meta
+france24.com##.o-ad-container--with-background.o-ad-container--banner-top.o-ad-container
+geekinout.pt##.header-logo-area-two > .container > .align-items-center.row
+generalitranquilidade.pt##.overlay-wrapper
+healthcentral.com##div.rr-wrapper:nth-of-type(1)
+healthcentral.com##div.RRWrapper_visible__YuB6n.rr-wrapper:nth-of-type(3)
+huffingtonpost.co.uk##.bottom-right-sticky-container
+independent.co.uk##div.bJuTTT.sc-j93h5r-0
+independent.ie##.ad--leaderboard.ad
+inoreader.com##.move-articles-list.flex.nav-item
+kuantokusta.pt##.c-haOSlH-cezigA-left-true.c-haOSlH
+kuantokusta.pt##.c-haOSlH-czsSGP-right-true.c-haOSlH > .c-gewNbg > .c-hakyQ
+kuantokusta.pt###stores > .c-tDSnG
+laroche-posay.pt##.NewsLetterContainer
+leak.pt##.td_block_template_1.td-pb-border-top.tdi_44.tdb_single_post_share.td_block_wrap
+livenewsmag.com###pum-3669
+livescience.com###affiliate-disclaimer
+logpasta.com##.push
+mirror.co.uk##.css-jdg50f.qc-cmp-cleanslate
+msn.com##.consumption-page-gridarea_rail
+msn.com###ViewsPageId-AA1iDBQB > .consumption-page-structure > .consumption-page-gridarea_rail > .consumption-page-rail-wrapper > views-right-rail
+myfitnesspal.com##.css-ghw943.MuiBox-root
+myfitnesspal.com##.css-oex058.MuiBox-root
+myfitnesspal.com##.css-pummgu.MuiBox-root
+mysanantonio.com##div.md\:block.none.y100.package
+nashuatelegraph.com###single_300x600
+nashuatelegraph.com###top_leaderboard
+natesilver.net##._background_1h9fv_85
+natesilver.net##._subscribeDialog_1h9fv_1.pc-reset.pc-alignItems-center.pc-flexDirection-column.pc-display-flex.pencraft
+natesilver.net##.button-wrapper > .primary.button
+ndtv.com##.in-viewport.tbl-next-up-mobile-position-bottom.tbl-next-up-position-right.tbl-next-up.tbl-floating-unit
+noticiasaominuto.com##.dummyPub
+rawstory.com##.tp-active.tp-backdrop
+rawstory.com##.tp-modal
+rawstory.com##body:style(overflow:scroll!important)
+rtp.pt##.in.bd-example-modal-lg.fade.modal.validacao-registo
+sammobile.com###snack-top
+sbnation.com###toaster
+sciencefocus.com##.footer-subscription-widgets
+sciencenews.org##.zephr-payment-form-max-width.zephr-form-max-width.svelte-1g2h5zh
+sfgate.com##div.md\:block.none.y100.package:nth-of-type(1)
+teamos.xyz###siropuChatNotice > span > .bbWrapper
+techradar.com###affiliate-disclaimer
+tempo.pt##.cont-izq.item-principal > aside.card
+tempo.pt###bannerDerPC
+the-express.com###remixd-audio-player
+therakyatpost.com###ai_widget-6 > .ad-div-class
+theverge.com##div.flex-auto:nth-of-type(1)
+tvfandomlounge.com##div.first\:pt-\[3px\].empty\:hidden.gap-1.flex-col.w-full.flex:nth-of-type(1) > .dark.dark\:prose-invert.break-words.w-full.prose.markdown > p:nth-of-type(2)
+tvfandomlounge.com##div.first\:pt-\[3px\].empty\:hidden.gap-1.flex-col.w-full.flex:nth-of-type(1) > .dark.dark\:prose-invert.break-words.w-full.prose.markdown > p:nth-of-type(8)
+volcanodiscovery.com###bn
+washingtonpost.com##.wpds-c-pMxRz-rjvEo-isVoraciously-false.wpds-c-pMxRz
+washingtonpost.com##div.ad--enterprise
+washingtonpost.com##div.ad--enterprise:nth-of-type(1)
+washingtonpost.com##div.PJLV-ipMxRz-css.PJLV:nth-of-type(4)
+washingtonpost.com##div.PJLV-ipMxRz-css.PJLV:nth-of-type(5)
+zdnet.com###onetrust-consent-sdk
+zdnet.com###ot-sdk-btn-floating
+x.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
+x.com##[aria-label="Business"]
+x.com##[aria-label="Get Verified"]
+x.com##[aria-label="Premium"]
+x.com##[aria-label="Verified Orgs"]
+x.com##aside[aria-label="Assine o Premium"]:upward(1)
+x.com##aside[aria-label="Subscribe to Premium"]:upward(1)
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n:nth-of-type(3)
 xda-developers.com##.article-footer-newsletter
 xda-developers.com##.et_social_mobile_off.et_social_sidebar_grow.et_social_rectangle.et_social_animated.et_social_slideright.et_social_visible_sidebar.et_social_sidebar_networks > .et_social_icons_container
 xiaomiui.net##.h1ad.ads_ads
 yahoo.com###sda-MON
-youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
-youtube.com###related ytd-compact-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set,ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"])
-youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##ytd-reel-shelf-renderer
-youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"])
-youtube.com##[is-shorts]
-youtube.com##[tab-title="Shorts"]
 youtube4kdownloader.com##.banner-bottom
 youtube4kdownloader.com##.blog-article.block
 youtube4kdownloader.com##.copyright
 youtube4kdownloader.com##.disqus.content
 youtube4kdownloader.com##.footer-lang
 youtube4kdownloader.com##.st-has-labels.st-toggleable.st-left.st-sticky-share-buttons.sharethis-sticky-share-buttons
+youtube4kdownloader.com##.sub-form-container
 youtube4kdownloader.com##footer > svg
 youtube4kdownloader.com##footer > svg > path
 youtube4kdownloader.com##footer > ul
 youtube4kdownloader.com##section.focus-d.content:nth-of-type(2)
 yts.mrunblock.life##div.hidden-sm.hidden-xs > .alwocme4ir
-zap.aeiou.pt###pub-textlink
 zap.aeiou.pt##.code-block-15.code-block
 zap.aeiou.pt##.code-block-25.code-block
 zap.aeiou.pt##.code-block-30.code-block
 zap.aeiou.pt##.code-block-4.code-block
 zap.aeiou.pt##.code-block-9.code-block
+zap.aeiou.pt###pub-textlink
 zdnet.com###onetrust-consent-sdk
-||accounts.google.com/gsi/iframe/select$subdocument
-||audiobookbay.fi/images/bin.jpg$image
-||audiobookbay.fi/images/bz.jpg$image
-||audiobookbay.fi/images/d-t.gif$image
-||audiobookbay.fi/images/dire.gif$image
-||audiobookbay.fi/images/twi.jpg$image
-||audiobookbay.is/images/bz.jpg$image
-||audiobookbay.is/images/bz.jpg$image
-||audiobookbay.li/images/bz.jpg$image
-||audiobookbay.li/images/d-t.gif$image
-||audiobookbay.li/images/dire.gif$image
-||audiobookbay.li/wp-content/themes/simplebalance/img/background.png$image
-||audiobookbay.net/images/bin.jpg$image
-||audiobookbay.nl/images/audiobook.png$image
-||audiobookbay.nl/images/bin.jpg$image
-||audiobookbay.nl/images/bz.jpg$image
-||audiobookbay.nl/images/d-t.gif$image
-||audiobookbay.nl/images/direct.gif$image
-||audiobookbay.se/images/dir.gif$image
-||audiobookbay.se/images/fr.jpg$image
-||audiobookbay.ws/images/bin.jpg$image
-||audiobookbay.ws/images/d-t.gif$image
-||download.bitdefender.com/resources/themes/red/images_colorbox/overlay.png$image
-||facebook.com/ajax/bnzai?__a=1&__aaid=2516290475092677&__ccg=EXCELLENT&__comet_req=15&__hs=19291.HYP%3Acomet_pkg.2.1.0.2.1&__hsi=7158717821999713694&__req=h&__rev=1006466405&__s=5zu3fg%3Aey9uyp%3Az11w13&__spin_b=trunk&__spin_r=1006466405&__spin_t=1666768878&__user=100033246832787&dpr=1&fb_dtsg=NAcOmbGksfrNNEuFEW8-beIEjviPyJn6UwFg0WV69vKFs0tM31KgbNQ%3A5%3A1664969539&jazoest=25385&lsd=1hSyis3WWM2Lw0mdA7Bn4X&ph=C3$xhr,domain=facebook.com
-||forum.mobilism.org/styles/BBOOTS/imageset/express1.png$image
-||freemactorrent.com/bg-safe.png$image
-||gstatic.com/inputtools/images/tia.png$image
-||ibt-mail.com/site2/ibts_fast_start/$subdocument
-||jornalacores9.pt/wp-content/uploads/2022/09/centroptico-set-22-1*.jpg$image
-||jornalacores9.pt/wp-content/uploads/2022/10/novobanco-Credito-Pessoal.gif$image
-||media-manager.noticiasaominuto.com/1280/636534ac178d4.jpeg?crop_params=e30=$image
-||media-manager.noticiasaominuto.com/640/naom_63bdb18506af6.jpeg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||pub.web.sapo.io/static/formatos/300x250-pub2.jpg$image
-||sciencebasedmedicine.org/wp-content/uploads/2018/08/become-a-patron-button.png$image
-||static.cgd.pt/staticCMS/cdo/global/img/Fraude_PaginaZero_4.png$image
-||theaudiobookbay.me/images/d-t.gif$image
-||thefreelibrary.com/_/static/bg.gif$image
-
-! 2024-03-29 https://youtube4kdownloader.com
-youtube4kdownloader.com##.sub-form-container
-
-! 2024-04-03 https://visao.pt
-visao.pt##.tin-pub-inner
-visao.pt##.rmp-ad-container
-visao.pt##.auto-pub-incontent.pub
-
-! 2024-04-04 https://www.livenewsmag.com
-www.livenewsmag.com###pum-3669
-
-! 2024-04-05 https://www.kuantokusta.pt
-www.kuantokusta.pt###stores > .c-tDSnG
-
-! 2024-04-06 https://www.independent.ie
-www.independent.ie##.ad--leaderboard.ad
-
-! 2024-04-07 https://audiobookbay.lu
-audiobookbay.lu##.ski
-
-! 2024-04-10 https://audiobookbay.is
-audiobookbay.is##[src="/images/d-r.gif"]
-
-! 2024-04-21 https://thehackernews.com
-thehackernews.com##.akku.sidefix.box-side.clear
-
-! 2024-04-23 https://odia.ig.com.br
-odia.ig.com.br###rodapefixo
-
-! 2024-04-23 https://www.google.com
-www.google.com##.b0KoTc
-
-! 2024-04-23 https://www.contacto.lu
-www.contacto.lu##.ad-element_ad--leaderboard__HCIQI.ad-element_ad__7IwrW
-www.contacto.lu##div.storyblock-list_ad__aixfY.ad-element_ad--rectangle__mFKuE.ad-element_ad__7IwrW
-
-! 2024-04-26 https://expresso.pt
-expresso.pt##.bloco-publicidade-first-billboard.bloco-publicidade.bloco.full-width.no-sidebar.main-section
-
-! 2024-04-28 https://www.wired.com
-www.wired.com##.hBemTr.ActionBarWrapperContent-lasBkU
-
-! 2024-04-28 https://macmagazine.com.br
-macmagazine.com.br##.wp-block-group-is-layout-constrained.is-layout-constrained.is-style-cnvs-block-bg-light.wp-block-group
-macmagazine.com.br##.bannersquare-mobile
-
-! 2024-04-29 https://appleinsider.com
-appleinsider.com##.visible-sm.visible-xs
-
-! 2024-05-01 https://whiplash.net
-whiplash.net##span.adInline
-whiplash.net##.pulse
-whiplash.net##.backgroundVermelho.cornerRibbonDir
-whiplash.net##.backgroundVerdeEscuro.cornerRibbonEsq
-whiplash.net##div.separadorComTexto:nth-of-type(1)
+folhape.com.br##.bannerTopoHome.bannerTopo
+folhape.com.br##.squareBanner
+folhape.com.br##.textoArea.prefix_2.grid_8 > div.spacer30
+folhape.com.br##.textoArea.prefix_2.grid_8 > .titlePadrao
+folhape.com.br##.spacer100
+amateurphotographer.com##.c-video-ad__container.wp-block
+rtp.pt##.relative.hidden-content
+||escolapediatria.pt/wp-content/uploads/2024/12/0a68b8a6-7925-4e03-9f70-2b5a4517fb0d*.jpeg$image
+escolapediatria.pt##.e-lazyloaded.e-parent.e-con.e-con-boxed.e-flex.elementor-element-26d05cd.elementor-element
+escolapediatria.pt##.elementor-element-ee99b45.elementor-element.elementor-inner-column.elementor-col-50.elementor-column > .elementor-element-populated.elementor-widget-wrap
+escolapediatria.pt##.lazyloaded.wp-image-25887.size-full.attachment-full
+dn.pt##.text-story-m_share__FrlMt
+||go.vooozer.com/embed/f7a009fd$subdocument
+content.paodeacucar.com##[src="https://go.vooozer.com/embed/f7a009fd"]
+content.paodeacucar.com##.content.postcontent > p:nth-of-type(2)
+escolapediatria.pt##.lazyloaded.page_top_breadcrumbs.page_top_title.page_top_wrap
+escolapediatria.pt##.bg_tint_light.top_panel_wrap
+escolapediatria.pt##.elementor-widget-text-editor.elementor-widget.elementor-element-39e84d9.elementor-element
+escolapediatria.pt###pergunta5
+escolapediatria.pt##.elementor-widget-text-editor.elementor-widget.elementor-element-9e327eb.elementor-element
+escolapediatria.pt###colophon
+escolapediatria.pt##.joinchat--tooltip.joinchat--show.joinchat--left.joinchat
+escolapediatria.pt###pergunta6
+escolapediatria.pt###pergunta4
+escolapediatria.pt###pergunta2
+escolapediatria.pt###pergunta1
+escolapediatria.pt##.elementor-size-default.elementor-heading-title
+escolapediatria.pt###pergunta3
+escolapediatria.pt##.e-con-inner
+escolapediatria.pt###desconto
+escolapediatria.pt##.elementor-element-ee99b45.elementor-element.elementor-inner-column.elementor-col-50.elementor-column
+||phandroid.com/wp-content/uploads/2025/02/Galaxy-S25-Ultra-1.png$image
+theverge.com##body > div:has(tablet_leaderboard)
+theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
+theverge.com##div._1xql9yl8._1xql9yl2:nth-of-type(3)
+theverge.com##._1xql9yl8._1xql9yl6._1xql9yl2
+theverge.com##._1xql9yl8._1xql9yl4._1xql9yl2
+theverge.com##._10nsm9325._10nsm930._10nsm936._10nsm931q
+softarchive.is##.card-brief__footer
+thetimes.com##.css-1qdgdqs
+thetimes.com##.xQijj.responsive__MainContainer-sc-15gvuj2-1 > article > div:nth-of-type(4)
+g1.globo.com##.glb-share-bar_icons
+fortune.com##.ddsPZo.sc-c2f4cd6e-11
+sicnoticias.pt##.active.item-odd.item-1 > [src]
+cmjornal.pt##.sticky_container
+appleinsider.com##.align-center.embed.col-sm-12
+appleinsider.com##.reviews > .row > .row
+forexlive.com##.above-header-meta-content.unit__outer-wrapper
+forexlive.com##div.sidebar__banner.unit__outer-wrapper
+forexlive.com##.sidebar__live-quotes.closed-bracket.opened-bracket.sidebar-live-quotes__wrapper
+forexlive.com##.contact-widget__list
+custojusto.pt##.layout_main__UYxmQ > .vi_row__MeF_p
+irishstar.com##.secondary.related-column
+telegraph.co.uk##.tpl-article__sidebar > .section.more-stories
+newrepublic.com##.default.article > .mostRecent-wrapper
+strettynews.com###strettycast > div > .lazyloaded
+inoreader.com###move_article_list
+theforage.com##.forage-sticky-bar
+web.whatsapp.com##.xyj1x25.x13fuv20.x178xt8z.x150wa6m.xh8yej3.xoz0ns6.x1ey2m1c.x10l6tqk.x1a8lsjc.xz9dl7a.x6s0dn4.x1q0g3np.x1qughib.x2lwn1j.xeuugli.x12fk4p8.x1oa3qoh.xozqiw3.x78zum5.x1g77sc7.xdl72j9.xs83m0k.x1c4vz4f
+mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+livenewsmag.com##.entry-content.g1-typography-xl.g1-content-narrow > p:nth-of-type(4)
+ghacks.net##.ghacks-ad
+reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
+reddit.com###advertise-button
+reddit.com###moderation_section > faceplate-tracker > .mt-0.list-none.relative > .no-underline.bg-transparent.s\:rounded-\[8px\].-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+reddit.com##left-nav-moderation-controller
+goodreads.com##.siteHeader__topFullImageContainer
+thegatewaypundit.com##.code-block-17.code-block
+thegatewaypundit.com##.ai-viewport-2.ai-viewport-1
+thegatewaypundit.com##.ai-dynamic
+livescience.com##.dfp-leaderboard-container
+techradar.com##.dfp-leaderboard-container
+zdnet.com##.blank.c-adDisplay_container_incontent-all-top.c-adDisplay_container.g-outer-spacing-bottom-large
+zdnet.com###incontent-ad-plus-billboard-middle
+zdnet.com##div.blank.c-adDisplay_container_incontent-ad-plus-billboard-middle.c-adDisplay_container.g-outer-spacing-bottom-large
+androidcentral.com##.\[\&\>a\]\:underline.\[\&\>a\]\:text-gray-700.md\:text-\[13px\].leading-\[18px\].text-\[12px\].mb-2.text-700
+yahoo.com##div.md\:block.dark\:bg-ramones.pb-5.hidden.mb-4:nth-of-type(2) > .justify-center.flex-nowrap.w-full.flex
+yahoo.com##div.md\:block.dark\:bg-ramones.pb-5.hidden.mb-4 > .justify-center.flex-nowrap.w-full.flex
+yahoo.com###R16mmk5cfevdbH1 > .dark\:text-grey-hair.dark\:bg-ramones.leading-3.text-center.bg-marshmallow.justify-center.items-center.size-full.flex
+custojusto.pt##div.css-a67dqr.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(6) > a.itemCard_link__pqt6h:nth-of-type(1)
+custojusto.pt##.vi_slot-container__NIV4n.vi_container__wJz1P
+custojusto.pt##.vi_hidden-xs__sU2oa.vi_time-price__OUvDt.vi_row__MeF_p > .vi_md-and-up__V4M32.vi_credibom-pub__CczsI > span > span
+poligrafo.sapo.pt###ad-rm-top > .elementor-widget-container > div
+poligrafo.sapo.pt##.elementor-section-items-middle.elementor-section-height-default.elementor-section-height-min-height.ad-billboard.elementor-section-full_width.elementor-element-576240b1.elementor-element.elementor-top-section.elementor-section > .elementor-column-gap-default.elementor-container
+poligrafo.sapo.pt##.elementor-section-items-middle.elementor-section-height-default.elementor-section-height-min-height.ad-billboard.elementor-section-full_width.elementor-element-576240b1.elementor-element.elementor-top-section.elementor-section
+reddit.com##.gap-xs.items-center.flex-wrap.gap-\[var\(--rem4\)\].flex.text-neutral-content-weak
+observador.pt###dark-mode-switch
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+livenewsmag.com##.g1-column-1of3.g1-column.g1-sidebar-padded.g1-sidebar
+jn.pt##.classification > .sk-wrapper
+g1.globo.com###chunk-8eg6p > .active-extra-styles.content-text.mc-column > .content-unordered-list > li
+||bordalo.observador.pt/v2/q:*0/rs:fill:*/plain/https://s3.observador.pt/wp-content/uploads/2025/02/05150442/link-terapia-de-casal.jpg$image
+westernstandard.news###widget-Ad\ top-62e1eafe-3546-462d-bdb4-f17ccc8a2278
+expresso.pt##.dark-mode-toggle-inner.elements-wrapper
+news.google.com##.EA71Tc.eKomyd
+radioilheu.pt###bingo_ruby_fanpage_widget-4 > .block-title.widget-title
+mamamia.com.au##.consent-backdrop
+offthefrontpage.com###block-4
+drive.google.com##.alldAction
+acorianooriental.pt##.p-4.w-100.background-light-gray.position-fixed.allow-cookies
+eu.heraldnews.com##.page-background-placeholder.content-well
+eu.heraldnews.com##.secondary
+washingtontimes.com##div.hide-on-mobile.inline-article-ad.twt-content-only-hide
+washingtontimes.com##.bigtext > div.twt-content-only-hide
+||hotnewhiphop.com/images/ad-text.jpg$image
+hotnewhiphop.com##.min-h-\[250px\].mb-8.a-block-bg.bg-center.bg-no-repeat.bg-ad-text.bg-d-bg-color.relative.leading-none.w-full
+||livenewsmag.com/wp-content/uploads/2016/08/fox-news-channel-2*.png$image
+||livenewsmag.com/wp-content/uploads/2016/07/CNN-News-TV-Live-5*.png$image
+||livenewsmag.com/wp-content/uploads/2025/04/livenewsmag-logo-1.png$image
+x.com##.r-rs99b7.r-1q9bdsx.r-jxzhtn.r-14lw9ot.css-175oi2r
+tsf.pt##.sk-showing.sk-notification-dialog
+idealista.pt##.container > .block-smart-format-block.block-idn-smart.block
+feedspot.com##.show.modal.tw_sub_modal.fade
+feedspot.com##.feedback-sticky
+audiobooksbee.com###simple-banner > .simple-banner-text
+timescall.com##.article-footer
+jewishpress.com##.textwidget > .lazyloaded
+whyevolutionistrue.com##.site-branding
+mojo4music.com##.article_adContainer--filled__vtAYe.article_adContainer--inline__eu__7.adContainer--inline.article_adContainer__qr_Hd
+mojo4music.com##.advertWrapper_is-sticky__O1XMR.advertWrapper_billboard__npTvz.advertWrapper_adContainer--zero_margins__wjo3W.advertWrapper_adContainer__RxpbP
+mojo4music.com##.advertWrapper_content-unwrapped-ad__4Qefx.inline-02-wrapper
