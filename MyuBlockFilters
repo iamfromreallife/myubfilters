@@ -1,3 +1,6 @@
+google.*#@#div[data-q][data-al]
+google.com#@#body #tads
+google.*#@#div[data-lhcontainer][style="margin-bottom:30px"] > div[data-mcpr]
 @@*$generichide,domain=filecr.com
 @@||analytics-v2.mailtrack.io^
 @@||assets-jpcust.jwpsrv.com^$domain=sicnoticias.pt
@@ -763,7 +766,6 @@ diarioleiria.pt##.dc-side-pub.full-width.dc-pub.ct-div-block
 eurogamer.pt##.leaderboard_container.advert_container
 eurogamer.pt##.low_leaderboard_container.advert_container
 eurogamer.pt##.sidebar
-facebook.com##footer
 foxnews.com##.article-meta-lower.article-meta
 france24.com##.o-ad-container--with-background.o-ad-container--banner-top.o-ad-container
 geekinout.pt##.header-logo-area-two > .container > .align-items-center.row
@@ -852,19 +854,18 @@ zap.aeiou.pt##.code-block-30.code-block
 zap.aeiou.pt##.code-block-4.code-block
 zap.aeiou.pt##.code-block-9.code-block
 zap.aeiou.pt###pub-textlink
-zdnet.com###onetrust-consent-sdk
-folhape.com.br##.bannerTopoHome.bannerTopo
-folhape.com.br##.squareBanner
-folhape.com.br##.textoArea.prefix_2.grid_8 > div.spacer30
-folhape.com.br##.textoArea.prefix_2.grid_8 > .titlePadrao
-folhape.com.br##.spacer100
+www.folhape.com.br##.bannerTopoHome.bannerTopo
+www.folhape.com.br##.squareBanner
+www.folhape.com.br##.textoArea.prefix_2.grid_8 > div.spacer30
+www.folhape.com.br##.textoArea.prefix_2.grid_8 > .titlePadrao
+www.folhape.com.br##.spacer100
 amateurphotographer.com##.c-video-ad__container.wp-block
-rtp.pt##.relative.hidden-content
+www.rtp.pt##.relative.hidden-content
 ||escolapediatria.pt/wp-content/uploads/2024/12/0a68b8a6-7925-4e03-9f70-2b5a4517fb0d*.jpeg$image
 escolapediatria.pt##.e-lazyloaded.e-parent.e-con.e-con-boxed.e-flex.elementor-element-26d05cd.elementor-element
 escolapediatria.pt##.elementor-element-ee99b45.elementor-element.elementor-inner-column.elementor-col-50.elementor-column > .elementor-element-populated.elementor-widget-wrap
 escolapediatria.pt##.lazyloaded.wp-image-25887.size-full.attachment-full
-dn.pt##.text-story-m_share__FrlMt
+www.dn.pt##.text-story-m_share__FrlMt
 ||go.vooozer.com/embed/f7a009fd$subdocument
 content.paodeacucar.com##[src="https://go.vooozer.com/embed/f7a009fd"]
 content.paodeacucar.com##.content.postcontent > p:nth-of-type(2)
@@ -886,92 +887,124 @@ escolapediatria.pt###desconto
 escolapediatria.pt##.elementor-element-ee99b45.elementor-element.elementor-inner-column.elementor-col-50.elementor-column
 ||phandroid.com/wp-content/uploads/2025/02/Galaxy-S25-Ultra-1.png$image
 theverge.com##body > div:has(tablet_leaderboard)
-theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
-theverge.com##div._1xql9yl8._1xql9yl2:nth-of-type(3)
-theverge.com##._1xql9yl8._1xql9yl6._1xql9yl2
-theverge.com##._1xql9yl8._1xql9yl4._1xql9yl2
-theverge.com##._10nsm9325._10nsm930._10nsm936._10nsm931q
+www.theverge.com##._10nsm9324._10nsm930._10nsm931._10nsm93q
+www.theverge.com##div._1xql9yl8._1xql9yl2:nth-of-type(3)
+www.theverge.com##._1xql9yl8._1xql9yl6._1xql9yl2
+www.theverge.com##._1xql9yl8._1xql9yl4._1xql9yl2
+www.theverge.com##._10nsm9325._10nsm930._10nsm936._10nsm931q
 softarchive.is##.card-brief__footer
-thetimes.com##.css-1qdgdqs
-thetimes.com##.xQijj.responsive__MainContainer-sc-15gvuj2-1 > article > div:nth-of-type(4)
+www.thetimes.com##.css-1qdgdqs
+www.thetimes.com##.xQijj.responsive__MainContainer-sc-15gvuj2-1 > article > div:nth-of-type(4)
 g1.globo.com##.glb-share-bar_icons
 fortune.com##.ddsPZo.sc-c2f4cd6e-11
 sicnoticias.pt##.active.item-odd.item-1 > [src]
-cmjornal.pt##.sticky_container
+www.cmjornal.pt##.sticky_container
 appleinsider.com##.align-center.embed.col-sm-12
 appleinsider.com##.reviews > .row > .row
-forexlive.com##.above-header-meta-content.unit__outer-wrapper
-forexlive.com##div.sidebar__banner.unit__outer-wrapper
-forexlive.com##.sidebar__live-quotes.closed-bracket.opened-bracket.sidebar-live-quotes__wrapper
-forexlive.com##.contact-widget__list
-custojusto.pt##.layout_main__UYxmQ > .vi_row__MeF_p
-irishstar.com##.secondary.related-column
-telegraph.co.uk##.tpl-article__sidebar > .section.more-stories
+www.forexlive.com##.above-header-meta-content.unit__outer-wrapper
+www.forexlive.com##div.sidebar__banner.unit__outer-wrapper
+www.forexlive.com##.sidebar__live-quotes.closed-bracket.opened-bracket.sidebar-live-quotes__wrapper
+www.forexlive.com##.contact-widget__list
+www.custojusto.pt##.layout_main__UYxmQ > .vi_row__MeF_p
+www.irishstar.com##.secondary.related-column
+www.telegraph.co.uk##.tpl-article__sidebar > .section.more-stories
 newrepublic.com##.default.article > .mostRecent-wrapper
 strettynews.com###strettycast > div > .lazyloaded
-inoreader.com###move_article_list
-theforage.com##.forage-sticky-bar
+www.inoreader.com###move_article_list
+www.theforage.com##.forage-sticky-bar
 web.whatsapp.com##.xyj1x25.x13fuv20.x178xt8z.x150wa6m.xh8yej3.xoz0ns6.x1ey2m1c.x10l6tqk.x1a8lsjc.xz9dl7a.x6s0dn4.x1q0g3np.x1qughib.x2lwn1j.xeuugli.x12fk4p8.x1oa3qoh.xozqiw3.x78zum5.x1g77sc7.xdl72j9.xs83m0k.x1c4vz4f
 mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
-livenewsmag.com##.entry-content.g1-typography-xl.g1-content-narrow > p:nth-of-type(4)
-ghacks.net##.ghacks-ad
-reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
-reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
-reddit.com###advertise-button
-reddit.com###moderation_section > faceplate-tracker > .mt-0.list-none.relative > .no-underline.bg-transparent.s\:rounded-\[8px\].-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
-reddit.com##left-nav-moderation-controller
-goodreads.com##.siteHeader__topFullImageContainer
-thegatewaypundit.com##.code-block-17.code-block
-thegatewaypundit.com##.ai-viewport-2.ai-viewport-1
-thegatewaypundit.com##.ai-dynamic
-livescience.com##.dfp-leaderboard-container
-techradar.com##.dfp-leaderboard-container
-zdnet.com##.blank.c-adDisplay_container_incontent-all-top.c-adDisplay_container.g-outer-spacing-bottom-large
-zdnet.com###incontent-ad-plus-billboard-middle
-zdnet.com##div.blank.c-adDisplay_container_incontent-ad-plus-billboard-middle.c-adDisplay_container.g-outer-spacing-bottom-large
-androidcentral.com##.\[\&\>a\]\:underline.\[\&\>a\]\:text-gray-700.md\:text-\[13px\].leading-\[18px\].text-\[12px\].mb-2.text-700
-yahoo.com##div.md\:block.dark\:bg-ramones.pb-5.hidden.mb-4:nth-of-type(2) > .justify-center.flex-nowrap.w-full.flex
-yahoo.com##div.md\:block.dark\:bg-ramones.pb-5.hidden.mb-4 > .justify-center.flex-nowrap.w-full.flex
-yahoo.com###R16mmk5cfevdbH1 > .dark\:text-grey-hair.dark\:bg-ramones.leading-3.text-center.bg-marshmallow.justify-center.items-center.size-full.flex
-custojusto.pt##div.css-a67dqr.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(6) > a.itemCard_link__pqt6h:nth-of-type(1)
-custojusto.pt##.vi_slot-container__NIV4n.vi_container__wJz1P
-custojusto.pt##.vi_hidden-xs__sU2oa.vi_time-price__OUvDt.vi_row__MeF_p > .vi_md-and-up__V4M32.vi_credibom-pub__CczsI > span > span
+www.livenewsmag.com##.entry-content.g1-typography-xl.g1-content-narrow > p:nth-of-type(4)
+www.ghacks.net##.ghacks-ad
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
+www.reddit.com###advertise-button
+www.reddit.com###moderation_section > faceplate-tracker > .mt-0.list-none.relative > .no-underline.bg-transparent.s\:rounded-\[8px\].-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com##left-nav-moderation-controller
+www.goodreads.com##.siteHeader__topFullImageContainer
+www.thegatewaypundit.com##.code-block-17.code-block
+www.thegatewaypundit.com##.ai-viewport-2.ai-viewport-1
+www.thegatewaypundit.com##.ai-dynamic
+www.livescience.com##.dfp-leaderboard-container
+www.techradar.com##.dfp-leaderboard-container
+www.zdnet.com##.blank.c-adDisplay_container_incontent-all-top.c-adDisplay_container.g-outer-spacing-bottom-large
+www.zdnet.com###incontent-ad-plus-billboard-middle
+www.zdnet.com##div.blank.c-adDisplay_container_incontent-ad-plus-billboard-middle.c-adDisplay_container.g-outer-spacing-bottom-large
+www.androidcentral.com##.\[\&\>a\]\:underline.\[\&\>a\]\:text-gray-700.md\:text-\[13px\].leading-\[18px\].text-\[12px\].mb-2.text-700
+www.yahoo.com##div.md\:block.dark\:bg-ramones.pb-5.hidden.mb-4:nth-of-type(2) > .justify-center.flex-nowrap.w-full.flex
+www.yahoo.com##div.md\:block.dark\:bg-ramones.pb-5.hidden.mb-4 > .justify-center.flex-nowrap.w-full.flex
+www.yahoo.com###R16mmk5cfevdbH1 > .dark\:text-grey-hair.dark\:bg-ramones.leading-3.text-center.bg-marshmallow.justify-center.items-center.size-full.flex
+www.custojusto.pt##div.css-a67dqr.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(6) > a.itemCard_link__pqt6h:nth-of-type(1)
+www.custojusto.pt##.vi_slot-container__NIV4n.vi_container__wJz1P
+www.custojusto.pt##.vi_hidden-xs__sU2oa.vi_time-price__OUvDt.vi_row__MeF_p > .vi_md-and-up__V4M32.vi_credibom-pub__CczsI > span > span
 poligrafo.sapo.pt###ad-rm-top > .elementor-widget-container > div
 poligrafo.sapo.pt##.elementor-section-items-middle.elementor-section-height-default.elementor-section-height-min-height.ad-billboard.elementor-section-full_width.elementor-element-576240b1.elementor-element.elementor-top-section.elementor-section > .elementor-column-gap-default.elementor-container
 poligrafo.sapo.pt##.elementor-section-items-middle.elementor-section-height-default.elementor-section-height-min-height.ad-billboard.elementor-section-full_width.elementor-element-576240b1.elementor-element.elementor-top-section.elementor-section
-reddit.com##.gap-xs.items-center.flex-wrap.gap-\[var\(--rem4\)\].flex.text-neutral-content-weak
+www.reddit.com##.gap-xs.items-center.flex-wrap.gap-\[var\(--rem4\)\].flex.text-neutral-content-weak
 observador.pt###dark-mode-switch
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
-livenewsmag.com##.g1-column-1of3.g1-column.g1-sidebar-padded.g1-sidebar
-jn.pt##.classification > .sk-wrapper
+www.livenewsmag.com##.g1-column-1of3.g1-column.g1-sidebar-padded.g1-sidebar
+www.jn.pt##.classification > .sk-wrapper
 g1.globo.com###chunk-8eg6p > .active-extra-styles.content-text.mc-column > .content-unordered-list > li
 ||bordalo.observador.pt/v2/q:*0/rs:fill:*/plain/https://s3.observador.pt/wp-content/uploads/2025/02/05150442/link-terapia-de-casal.jpg$image
-westernstandard.news###widget-Ad\ top-62e1eafe-3546-462d-bdb4-f17ccc8a2278
+www.westernstandard.news###widget-Ad\ top-62e1eafe-3546-462d-bdb4-f17ccc8a2278
 expresso.pt##.dark-mode-toggle-inner.elements-wrapper
 news.google.com##.EA71Tc.eKomyd
 radioilheu.pt###bingo_ruby_fanpage_widget-4 > .block-title.widget-title
-mamamia.com.au##.consent-backdrop
+www.mamamia.com.au##.consent-backdrop
 offthefrontpage.com###block-4
 drive.google.com##.alldAction
-acorianooriental.pt##.p-4.w-100.background-light-gray.position-fixed.allow-cookies
+www.acorianooriental.pt##.p-4.w-100.background-light-gray.position-fixed.allow-cookies
 eu.heraldnews.com##.page-background-placeholder.content-well
 eu.heraldnews.com##.secondary
-washingtontimes.com##div.hide-on-mobile.inline-article-ad.twt-content-only-hide
-washingtontimes.com##.bigtext > div.twt-content-only-hide
-||hotnewhiphop.com/images/ad-text.jpg$image
-hotnewhiphop.com##.min-h-\[250px\].mb-8.a-block-bg.bg-center.bg-no-repeat.bg-ad-text.bg-d-bg-color.relative.leading-none.w-full
-||livenewsmag.com/wp-content/uploads/2016/08/fox-news-channel-2*.png$image
-||livenewsmag.com/wp-content/uploads/2016/07/CNN-News-TV-Live-5*.png$image
-||livenewsmag.com/wp-content/uploads/2025/04/livenewsmag-logo-1.png$image
+www.washingtontimes.com##div.hide-on-mobile.inline-article-ad.twt-content-only-hide
+www.washingtontimes.com##.bigtext > div.twt-content-only-hide
+||www.hotnewhiphop.com/images/ad-text.jpg$image
+www.hotnewhiphop.com##.min-h-\[250px\].mb-8.a-block-bg.bg-center.bg-no-repeat.bg-ad-text.bg-d-bg-color.relative.leading-none.w-full
+||www.livenewsmag.com/wp-content/uploads/2016/08/fox-news-channel-2*.png$image
+||www.livenewsmag.com/wp-content/uploads/2016/07/CNN-News-TV-Live-5*.png$image
+||www.livenewsmag.com/wp-content/uploads/2025/04/livenewsmag-logo-1.png$image
 x.com##.r-rs99b7.r-1q9bdsx.r-jxzhtn.r-14lw9ot.css-175oi2r
-tsf.pt##.sk-showing.sk-notification-dialog
-idealista.pt##.container > .block-smart-format-block.block-idn-smart.block
-feedspot.com##.show.modal.tw_sub_modal.fade
-feedspot.com##.feedback-sticky
+www.tsf.pt##.sk-showing.sk-notification-dialog
+www.idealista.pt##.container > .block-smart-format-block.block-idn-smart.block
+www.feedspot.com##.show.modal.tw_sub_modal.fade
+www.feedspot.com##.feedback-sticky
 audiobooksbee.com###simple-banner > .simple-banner-text
-timescall.com##.article-footer
-jewishpress.com##.textwidget > .lazyloaded
+www.timescall.com##.article-footer
+www.jewishpress.com##.textwidget > .lazyloaded
 whyevolutionistrue.com##.site-branding
-mojo4music.com##.article_adContainer--filled__vtAYe.article_adContainer--inline__eu__7.adContainer--inline.article_adContainer__qr_Hd
-mojo4music.com##.advertWrapper_is-sticky__O1XMR.advertWrapper_billboard__npTvz.advertWrapper_adContainer--zero_margins__wjo3W.advertWrapper_adContainer__RxpbP
-mojo4music.com##.advertWrapper_content-unwrapped-ad__4Qefx.inline-02-wrapper
+www.mojo4music.com##.article_adContainer--filled__vtAYe.article_adContainer--inline__eu__7.adContainer--inline.article_adContainer__qr_Hd
+www.mojo4music.com##.advertWrapper_is-sticky__O1XMR.advertWrapper_billboard__npTvz.advertWrapper_adContainer--zero_margins__wjo3W.advertWrapper_adContainer__RxpbP
+www.mojo4music.com##.advertWrapper_content-unwrapped-ad__4Qefx.inline-02-wrapper
+www.cm-pontadelgada.pt###wm-cookie-bar
+||pplware.sapo.pt//wp-content/themes/namek/img/sidebar/nl_butao.png$image
+pplware.sapo.pt###text-2
+pplware.sapo.pt##.widget_block.widget
+pplware.sapo.pt###text-3
+portal.azores.gov.pt##.col-xs-12.col-md-3.copyright-container
+www.salon.com##.article-content > hr
+www.the-independent.com##.iwdXRz.sc-thymrz-0
+##.ly0Ckb > svg > path
+www.inoreader.com##.flex.pr-2.pl-3.py-1.bg-gradient-white
+www.notion.so##.notion-sidebar > div > div > div > div > div > .autolayout-fill-width.autolayout-col
+www.notion.so##.notion-outliner-shared-header-container > div
+www.platformer.news##.kg-cta-centered.kg-cta-immersive.kg-cta-bg-grey.kg-cta-card.kg-card
+www.platformer.news##.outpost-slot-2.outpost-minimal.outpost-cta
+www.platformer.news##.gh-portal-triggerbtn-iframe
+www.platformer.news##.is-open.outpost-slideup.outpost-cta
+www.platformer.news##.gh-outer.has-image.is-classic.gh-header
+www.tuasaude.com##.rdor-find-doctor-banner.rdor-find-doctor-generic
+www.cgd.pt###barrainformativa
+www.platformer.news##.outpost-slot-1.outpost-cta > .outpost-cta-inner
+||s.yimg.com/ny/api/res/1.2/38nk5Ez64P1BSr_VyDv9Pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTExODtjZj13ZWJw/https://media.zenfs.com/en/thestreet_881/8910d27f7ce4fd88eb06a3dea3412ff8$image
+finance.yahoo.com##.loaded.yf-1vr77wf
+finance.yahoo.com##.yf-1vr77wf.image-container
+www.novagente.pt##.Pub-leaderbord.top-pub-destaques.row
+viral.sapo.pt##.px-sm-0.col-md.entry-content > div:nth-of-type(8)
+www.gazetaexpress.com##.mandeta-ad-tag_lajme_bigleaderboardlajme.mandeta-ad
+www.gazetaexpress.com##.bannerx1000.banner__holder
+www.gazetaexpress.com##.d-lg-inline-block.d-none.banner--blo.banner
+www.gazetaexpress.com##div.block--padding.related.others.block:nth-of-type(4)
+starsites.fun##+js(no-fetch-if, googlesyndication.com)
+www.google.com##.ly0Ckb > svg
+www.google.com##.Umvnrc
