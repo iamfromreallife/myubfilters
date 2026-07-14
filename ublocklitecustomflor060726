@@ -147,6 +147,7 @@ audiobookbay.lu##li:nth-of-type(8) > h2
 audiobookbay.lu##tr:nth-of-type(122)
 audiobookbay.lu##tr:nth-of-type(26) > td
 audiobookbay.lu##tr:nth-of-type(27)
+audiobookbay.lu##tr:nth-of-type(30) > td
 audiobookbay.lu##tr:nth-of-type(5) > td
 
 audiobooksbee.com###simple-banner > .simple-banner-text
@@ -176,8 +177,6 @@ blogdoiphone.com##.code-block-22.code-block
 blogdoiphone.com##.code-block-24.code-block
 
 bloodyelbow.com##.remixd-wrapper
-
-bloomberg.com##div.rightRail_stickySegment__fqwBi:nth-of-type(1)
 
 boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > .i-amphtml-fill-content
 boingboing.net##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
@@ -697,6 +696,8 @@ mail.google.com###\:1b > div > .custom-domains-banner
 mail.google.com###\:1r > div > .custom-domains-banner
 mail.google.com##.ZY
 mail.google.com##.modal__overlay
+mail.google.com##div.custom-domains-banner
+mail.google.com##div.s1rbBe
 
 mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
 mail.proton.me##.p-0-5.lg\:text-center.text-left.bg-promotion-gradient-horizontal.relative.bg-promotion.shrink-0.flex-nowrap.flex
@@ -928,6 +929,10 @@ publico.pt##.social-tools
 publico.pt##.stack-social-tools.stack--learn-more.stack
 publico.pt##.trinityAudioPlaceholder
 
+pureinfotech.com###newswrapper
+pureinfotech.com##aside.kofi-box
+pureinfotech.com##section.newswrapper-wrapper
+
 radioatlantida.net##.relative.bg-white.py-8
 
 radioilheu.pt###bingo_ruby_fanpage_widget-4 > .block-title.widget-title
@@ -998,6 +1003,7 @@ sammyguru.com##.et_section_regular.et_pb_with_background.et_pb_sticky_module.top
 sammyguru.com##.has_et_pb_sticky.et_pb_gutters3.et_builder_inner_content
 sammyguru.com##.sg-active.sg-popup-overlay
 sammyguru.com##[href^="https://google.com/preferences/source"]
+sammyguru.com##section.sg-ck-form.sg-ck-form--card
 sammyguru.com##body:style(overflow:auto !important;)
 sammyguru.com##body:style(pointer-events:auto !important;)
 sammyguru.com##body:style(position:static !important;)
@@ -1210,6 +1216,8 @@ tuasaude.com##.tuasaude-br-article-body-3.mrec-container
 tuasaude.com##.tuasaude-en-article-body-2.mrec-container
 
 tugatech.com.pt###pb-topo2
+tugatech.com.pt###tts-player-spot
+tugatech.com.pt##div.tt-google-follow-box
 
 tvfandomlounge.com##div.first\:pt-\[3px\].empty\:hidden.gap-1.flex-col.w-full.flex:nth-of-type(1) > .dark.dark\:prose-invert.break-words.w-full.prose.markdown > p:nth-of-type(2)
 tvfandomlounge.com##div.first\:pt-\[3px\].empty\:hidden.gap-1.flex-col.w-full.flex:nth-of-type(1) > .dark.dark\:prose-invert.break-words.w-full.prose.markdown > p:nth-of-type(8)
@@ -1217,12 +1225,8 @@ tvfandomlounge.com##div.first\:pt-\[3px\].empty\:hidden.gap-1.flex-col.w-full.fl
 tvi.iol.pt##.hidemobile
 tvi.iol.pt##.pubdiv
 
-tviplayer.iol.pt##.bell
 tviplayer.iol.pt##.billboardxl--wrapper
-tviplayer.iol.pt##.popover
 tviplayer.iol.pt##aside
-tviplayer.iol.pt##div.pub-outer-wrapper
-tviplayer.iol.pt##div.pub-outer-wrapper.mpuhalf.mcd-hidden-block
 
 twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
 twitter.com##[aria-label="Get Verified"]
@@ -1307,30 +1311,29 @@ wrestling.pt##.pubheader
 
 wsj.com###cx-what-to-read-next
 
-www.acorianooriental.pt##.billboard-ad
+www.androidauthority.com###comments-section[data-container-type]
+www.androidauthority.com##div.viafoura
 
-www.cbsnews.com##.ad-wrapper
+www.buzzfeed.com##._slug__adUnitsWrapper__SbZyr > .awareness-ad_awarenessAdWrapper__f2hjC
 
 www.custojusto.pt##.tw-mt-4.tw-border-navy\/60.tw-my-6
 
-www.dailywire.com###global-header-top-ad-slot
-www.dailywire.com##.ad-wrapper
-
-www.google.com##div.b0KoTc
+www.dailywire.com##.dw-tk-global-banner
+www.dailywire.com##div[data-testid]
 
 www.iol.pt##.bell
 www.iol.pt##.premium-banner-wrapper
 www.iol.pt##.premium-underpub-inner
 
-www.livenewsworld.com###aswift_1
-www.livenewsworld.com##ins.adsbygoogle
-
+www.newslive.com###player-container:nth-of-type(10)
 www.newslive.com###td-outer-wrap .swp_social_panel
+www.newslive.com##.collapseomatic
 www.newslive.com##.light.dark\:prose-invert.break-words.w-full.prose.markdown > p
 www.newslive.com##.td-container-border.td-container.td-sub-footer-container > .td-pb-row
 www.newslive.com##.td-container.td-footer-container
 www.newslive.com##.td-main-logo
 www.newslive.com##.td-pb-padding-side.td-post-content > p
+www.newslive.com##:nth-of-type(10) > #player
 www.newslive.com##div.wp-block-column > p
 www.newslive.com##div.wp-block-column-is-layout-flow.is-layout-flow.wp-block-column
 www.newslive.com##h4
@@ -1339,20 +1342,17 @@ www.newslive.com##ol
 www.noticiasaominuto.com##.dark\:bg-darkgray.bg-lightgray.min-h-\[315px\].top-28.sticky
 www.noticiasaominuto.com##.dark\:text-white.dark\:bg-darkgray.text-black.p-4.bg-white.w-full
 www.noticiasaominuto.com##.lg\:px-0.lg\:flex-row.px-4.gap-4.items-center.flex-col.flex
-www.noticiasaominuto.com##.onesignal-reset
 
 www.nvidia.com###autoDetectDriver
 www.nvidia.com###latest-driver-downloads
 www.nvidia.com##.driver-popular-downloads-allwrps
-
-www.publico.pt###piano--paywall-bottom
 
 www.reddit.com###advertise-button
 www.reddit.com###games_section
 www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
 www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
 
-www.rtp.pt##a.google-source-btn
+www.sammobile.com##.deal > div.deal-inner
 
 www.tvguia.pt##.notificacao
 
